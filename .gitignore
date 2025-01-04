@@ -1,0 +1,26 @@
+# 0.\ Preprocessing/Beta\ severity/2.\ final\ count\ matrix/Homo_sapiens.GRCh38.106.gtf.gz
+#1.\ Differential\ expression\ analysis/beta\ severity/.Rproj.user
+# 1.\ Differential\ expression\ analysis/beta\ severity/.Rhistory
+# 1.\ Differential\ expression\ analysis/beta\ severity/beta.Rproj
+ 1.\ Differential\ expression\ analysis/beta\ severity/.RData
+7.\ Primary\ study\ information/metadata/GSE157103_series_matrix.txt
+beta_severity_lfc_1_nosm_data_gen_all.csv
+
+# Ignore all .gz files
+*.gz
+
+# Ignore all .RData files
+.RData
+
+# Ignore all .Rproj.user files
+*.Rproj.user
+
+# Ignore all .Rhistory files
+*.Rhistory
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all .csv files
+*.csv
+# Allow everything else

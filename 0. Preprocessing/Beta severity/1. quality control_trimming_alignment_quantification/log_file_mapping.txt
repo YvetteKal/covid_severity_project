@@ -1,0 +1,3723 @@
+Processing sample: SRR12544419_GSM4753021_COVID_01_39y_male_NonICU_Homo_sapiens_RNA-Seq
+18090542 reads; of these:
+  18090542 (100.00%) were paired; of these:
+    1272964 (7.04%) aligned concordantly 0 times
+    15946146 (88.15%) aligned concordantly exactly 1 time
+    871432 (4.82%) aligned concordantly >1 times
+    ----
+    1272964 pairs aligned concordantly 0 times; of these:
+      540654 (42.47%) aligned discordantly 1 time
+    ----
+    732310 pairs aligned 0 times concordantly or discordantly; of these:
+      1464620 mates make up the pairs; of these:
+        437614 (29.88%) aligned 0 times
+        756075 (51.62%) aligned exactly 1 time
+        270931 (18.50%) aligned >1 times
+98.79% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544420_GSM4753021_COVID_01_39y_male_NonICU_Homo_sapiens_RNA-Seq
+17816501 reads; of these:
+  17816501 (100.00%) were paired; of these:
+    1281816 (7.19%) aligned concordantly 0 times
+    15678549 (88.00%) aligned concordantly exactly 1 time
+    856136 (4.81%) aligned concordantly >1 times
+    ----
+    1281816 pairs aligned concordantly 0 times; of these:
+      530767 (41.41%) aligned discordantly 1 time
+    ----
+    751049 pairs aligned 0 times concordantly or discordantly; of these:
+      1502098 mates make up the pairs; of these:
+        459813 (30.61%) aligned 0 times
+        771733 (51.38%) aligned exactly 1 time
+        270552 (18.01%) aligned >1 times
+98.71% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544421_GSM4753022_COVID_02_63y_male_NonICU_Homo_sapiens_RNA-Seq
+10604196 reads; of these:
+  10604196 (100.00%) were paired; of these:
+    508491 (4.80%) aligned concordantly 0 times
+    9443454 (89.05%) aligned concordantly exactly 1 time
+    652251 (6.15%) aligned concordantly >1 times
+    ----
+    508491 pairs aligned concordantly 0 times; of these:
+      141871 (27.90%) aligned discordantly 1 time
+    ----
+    366620 pairs aligned 0 times concordantly or discordantly; of these:
+      733240 mates make up the pairs; of these:
+        271137 (36.98%) aligned 0 times
+        336885 (45.94%) aligned exactly 1 time
+        125218 (17.08%) aligned >1 times
+98.72% overall alignment rate
+[bam_sort_core] merging from 10 files...
+Processing sample: SRR12544422_GSM4753022_COVID_02_63y_male_NonICU_Homo_sapiens_RNA-Seq
+10431721 reads; of these:
+  10431721 (100.00%) were paired; of these:
+    514249 (4.93%) aligned concordantly 0 times
+    9277145 (88.93%) aligned concordantly exactly 1 time
+    640327 (6.14%) aligned concordantly >1 times
+    ----
+    514249 pairs aligned concordantly 0 times; of these:
+      138111 (26.86%) aligned discordantly 1 time
+    ----
+    376138 pairs aligned 0 times concordantly or discordantly; of these:
+      752276 mates make up the pairs; of these:
+        282715 (37.58%) aligned 0 times
+        343868 (45.71%) aligned exactly 1 time
+        125693 (16.71%) aligned >1 times
+98.64% overall alignment rate
+[bam_sort_core] merging from 10 files...
+Processing sample: SRR12544423_GSM4753023_COVID_03_33y_male_NonICU_Homo_sapiens_RNA-Seq
+16136825 reads; of these:
+  16136825 (100.00%) were paired; of these:
+    739697 (4.58%) aligned concordantly 0 times
+    14574088 (90.32%) aligned concordantly exactly 1 time
+    823040 (5.10%) aligned concordantly >1 times
+    ----
+    739697 pairs aligned concordantly 0 times; of these:
+      224077 (30.29%) aligned discordantly 1 time
+    ----
+    515620 pairs aligned 0 times concordantly or discordantly; of these:
+      1031240 mates make up the pairs; of these:
+        381881 (37.03%) aligned 0 times
+        487912 (47.31%) aligned exactly 1 time
+        161447 (15.66%) aligned >1 times
+98.82% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544424_GSM4753023_COVID_03_33y_male_NonICU_Homo_sapiens_RNA-Seq
+15861199 reads; of these:
+  15861199 (100.00%) were paired; of these:
+    749332 (4.72%) aligned concordantly 0 times
+    14306877 (90.20%) aligned concordantly exactly 1 time
+    804990 (5.08%) aligned concordantly >1 times
+    ----
+    749332 pairs aligned concordantly 0 times; of these:
+      220066 (29.37%) aligned discordantly 1 time
+    ----
+    529266 pairs aligned 0 times concordantly or discordantly; of these:
+      1058532 mates make up the pairs; of these:
+        398647 (37.66%) aligned 0 times
+        498973 (47.14%) aligned exactly 1 time
+        160912 (15.20%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544425_GSM4753024_COVID_04_49y_male_NonICU_Homo_sapiens_RNA-Seq
+16003459 reads; of these:
+  16003459 (100.00%) were paired; of these:
+    1489888 (9.31%) aligned concordantly 0 times
+    13640379 (85.23%) aligned concordantly exactly 1 time
+    873192 (5.46%) aligned concordantly >1 times
+    ----
+    1489888 pairs aligned concordantly 0 times; of these:
+      603250 (40.49%) aligned discordantly 1 time
+    ----
+    886638 pairs aligned 0 times concordantly or discordantly; of these:
+      1773276 mates make up the pairs; of these:
+        424110 (23.92%) aligned 0 times
+        931480 (52.53%) aligned exactly 1 time
+        417686 (23.55%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544426_GSM4753024_COVID_04_49y_male_NonICU_Homo_sapiens_RNA-Seq
+15751486 reads; of these:
+  15751486 (100.00%) were paired; of these:
+    1491758 (9.47%) aligned concordantly 0 times
+    13412789 (85.15%) aligned concordantly exactly 1 time
+    846939 (5.38%) aligned concordantly >1 times
+    ----
+    1491758 pairs aligned concordantly 0 times; of these:
+      593064 (39.76%) aligned discordantly 1 time
+    ----
+    898694 pairs aligned 0 times concordantly or discordantly; of these:
+      1797388 mates make up the pairs; of these:
+        441898 (24.59%) aligned 0 times
+        940035 (52.30%) aligned exactly 1 time
+        415455 (23.11%) aligned >1 times
+98.60% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544427_GSM4753025_COVID_05_49y_male_NonICU_Homo_sapiens_RNA-Seq
+17025828 reads; of these:
+  17025828 (100.00%) were paired; of these:
+    1463154 (8.59%) aligned concordantly 0 times
+    14733829 (86.54%) aligned concordantly exactly 1 time
+    828845 (4.87%) aligned concordantly >1 times
+    ----
+    1463154 pairs aligned concordantly 0 times; of these:
+      627286 (42.87%) aligned discordantly 1 time
+    ----
+    835868 pairs aligned 0 times concordantly or discordantly; of these:
+      1671736 mates make up the pairs; of these:
+        462500 (27.67%) aligned 0 times
+        863574 (51.66%) aligned exactly 1 time
+        345662 (20.68%) aligned >1 times
+98.64% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544428_GSM4753025_COVID_05_49y_male_NonICU_Homo_sapiens_RNA-Seq
+16759740 reads; of these:
+  16759740 (100.00%) were paired; of these:
+    1468903 (8.76%) aligned concordantly 0 times
+    14483043 (86.42%) aligned concordantly exactly 1 time
+    807794 (4.82%) aligned concordantly >1 times
+    ----
+    1468903 pairs aligned concordantly 0 times; of these:
+      617906 (42.07%) aligned discordantly 1 time
+    ----
+    850997 pairs aligned 0 times concordantly or discordantly; of these:
+      1701994 mates make up the pairs; of these:
+        483672 (28.42%) aligned 0 times
+        875352 (51.43%) aligned exactly 1 time
+        342970 (20.15%) aligned >1 times
+98.56% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544429_GSM4753026_COVID_06_y_male_NonICU_Homo_sapiens_RNA-Seq
+15896245 reads; of these:
+  15896245 (100.00%) were paired; of these:
+    1214745 (7.64%) aligned concordantly 0 times
+    13592966 (85.51%) aligned concordantly exactly 1 time
+    1088534 (6.85%) aligned concordantly >1 times
+    ----
+    1214745 pairs aligned concordantly 0 times; of these:
+      415812 (34.23%) aligned discordantly 1 time
+    ----
+    798933 pairs aligned 0 times concordantly or discordantly; of these:
+      1597866 mates make up the pairs; of these:
+        459760 (28.77%) aligned 0 times
+        789507 (49.41%) aligned exactly 1 time
+        348599 (21.82%) aligned >1 times
+98.55% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544430_GSM4753026_COVID_06_y_male_NonICU_Homo_sapiens_RNA-Seq
+15624918 reads; of these:
+  15624918 (100.00%) were paired; of these:
+    1216009 (7.78%) aligned concordantly 0 times
+    13342762 (85.39%) aligned concordantly exactly 1 time
+    1066147 (6.82%) aligned concordantly >1 times
+    ----
+    1216009 pairs aligned concordantly 0 times; of these:
+      408870 (33.62%) aligned discordantly 1 time
+    ----
+    807139 pairs aligned 0 times concordantly or discordantly; of these:
+      1614278 mates make up the pairs; of these:
+        474374 (29.39%) aligned 0 times
+        794104 (49.19%) aligned exactly 1 time
+        345800 (21.42%) aligned >1 times
+98.48% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544431_GSM4753027_COVID_07_38y_female_NonICU_Homo_sapiens_RNA-Seq
+15845719 reads; of these:
+  15845719 (100.00%) were paired; of these:
+    1332481 (8.41%) aligned concordantly 0 times
+    13518224 (85.31%) aligned concordantly exactly 1 time
+    995014 (6.28%) aligned concordantly >1 times
+    ----
+    1332481 pairs aligned concordantly 0 times; of these:
+      426719 (32.02%) aligned discordantly 1 time
+    ----
+    905762 pairs aligned 0 times concordantly or discordantly; of these:
+      1811524 mates make up the pairs; of these:
+        537778 (29.69%) aligned 0 times
+        848223 (46.82%) aligned exactly 1 time
+        425523 (23.49%) aligned >1 times
+98.30% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544432_GSM4753027_COVID_07_38y_female_NonICU_Homo_sapiens_RNA-Seq
+15585861 reads; of these:
+  15585861 (100.00%) were paired; of these:
+    1336743 (8.58%) aligned concordantly 0 times
+    13275216 (85.17%) aligned concordantly exactly 1 time
+    973902 (6.25%) aligned concordantly >1 times
+    ----
+    1336743 pairs aligned concordantly 0 times; of these:
+      419430 (31.38%) aligned discordantly 1 time
+    ----
+    917313 pairs aligned 0 times concordantly or discordantly; of these:
+      1834626 mates make up the pairs; of these:
+        552469 (30.11%) aligned 0 times
+        856348 (46.68%) aligned exactly 1 time
+        425809 (23.21%) aligned >1 times
+98.23% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544433_GSM4753028_COVID_08_78y_male_ICU_Homo_sapiens_RNA-Seq
+15735986 reads; of these:
+  15735986 (100.00%) were paired; of these:
+    1003321 (6.38%) aligned concordantly 0 times
+    13842964 (87.97%) aligned concordantly exactly 1 time
+    889701 (5.65%) aligned concordantly >1 times
+    ----
+    1003321 pairs aligned concordantly 0 times; of these:
+      373786 (37.25%) aligned discordantly 1 time
+    ----
+    629535 pairs aligned 0 times concordantly or discordantly; of these:
+      1259070 mates make up the pairs; of these:
+        365037 (28.99%) aligned 0 times
+        636780 (50.58%) aligned exactly 1 time
+        257253 (20.43%) aligned >1 times
+98.84% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544434_GSM4753028_COVID_08_78y_male_ICU_Homo_sapiens_RNA-Seq
+15482085 reads; of these:
+  15482085 (100.00%) were paired; of these:
+    1009925 (6.52%) aligned concordantly 0 times
+    13597721 (87.83%) aligned concordantly exactly 1 time
+    874439 (5.65%) aligned concordantly >1 times
+    ----
+    1009925 pairs aligned concordantly 0 times; of these:
+      368331 (36.47%) aligned discordantly 1 time
+    ----
+    641594 pairs aligned 0 times concordantly or discordantly; of these:
+      1283188 mates make up the pairs; of these:
+        382782 (29.83%) aligned 0 times
+        644310 (50.21%) aligned exactly 1 time
+        256096 (19.96%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544435_GSM4753029_COVID_09_64y_female_ICU_Homo_sapiens_RNA-Seq
+16037793 reads; of these:
+  16037793 (100.00%) were paired; of these:
+    959185 (5.98%) aligned concordantly 0 times
+    14054159 (87.63%) aligned concordantly exactly 1 time
+    1024449 (6.39%) aligned concordantly >1 times
+    ----
+    959185 pairs aligned concordantly 0 times; of these:
+      251770 (26.25%) aligned discordantly 1 time
+    ----
+    707415 pairs aligned 0 times concordantly or discordantly; of these:
+      1414830 mates make up the pairs; of these:
+        572615 (40.47%) aligned 0 times
+        612821 (43.31%) aligned exactly 1 time
+        229394 (16.21%) aligned >1 times
+98.21% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544436_GSM4753029_COVID_09_64y_female_ICU_Homo_sapiens_RNA-Seq
+15761101 reads; of these:
+  15761101 (100.00%) were paired; of these:
+    965319 (6.12%) aligned concordantly 0 times
+    13794994 (87.53%) aligned concordantly exactly 1 time
+    1000788 (6.35%) aligned concordantly >1 times
+    ----
+    965319 pairs aligned concordantly 0 times; of these:
+      246752 (25.56%) aligned discordantly 1 time
+    ----
+    718567 pairs aligned 0 times concordantly or discordantly; of these:
+      1437134 mates make up the pairs; of these:
+        588073 (40.92%) aligned 0 times
+        618631 (43.05%) aligned exactly 1 time
+        230430 (16.03%) aligned >1 times
+98.13% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544437_GSM4753030_COVID_10_62y_male_ICU_Homo_sapiens_RNA-Seq
+18633512 reads; of these:
+  18633512 (100.00%) were paired; of these:
+    862469 (4.63%) aligned concordantly 0 times
+    16450096 (88.28%) aligned concordantly exactly 1 time
+    1320947 (7.09%) aligned concordantly >1 times
+    ----
+    862469 pairs aligned concordantly 0 times; of these:
+      240404 (27.87%) aligned discordantly 1 time
+    ----
+    622065 pairs aligned 0 times concordantly or discordantly; of these:
+      1244130 mates make up the pairs; of these:
+        462675 (37.19%) aligned 0 times
+        575470 (46.25%) aligned exactly 1 time
+        205985 (16.56%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544438_GSM4753030_COVID_10_62y_male_ICU_Homo_sapiens_RNA-Seq
+18345542 reads; of these:
+  18345542 (100.00%) were paired; of these:
+    873934 (4.76%) aligned concordantly 0 times
+    16171474 (88.15%) aligned concordantly exactly 1 time
+    1300134 (7.09%) aligned concordantly >1 times
+    ----
+    873934 pairs aligned concordantly 0 times; of these:
+      237953 (27.23%) aligned discordantly 1 time
+    ----
+    635981 pairs aligned 0 times concordantly or discordantly; of these:
+      1271962 mates make up the pairs; of these:
+        481287 (37.84%) aligned 0 times
+        582746 (45.81%) aligned exactly 1 time
+        207929 (16.35%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544439_GSM4753031_COVID_11_52y_female_NonICU_Homo_sapiens_RNA-Seq
+16204542 reads; of these:
+  16204542 (100.00%) were paired; of these:
+    714091 (4.41%) aligned concordantly 0 times
+    14372290 (88.69%) aligned concordantly exactly 1 time
+    1118161 (6.90%) aligned concordantly >1 times
+    ----
+    714091 pairs aligned concordantly 0 times; of these:
+      160720 (22.51%) aligned discordantly 1 time
+    ----
+    553371 pairs aligned 0 times concordantly or discordantly; of these:
+      1106742 mates make up the pairs; of these:
+        450135 (40.67%) aligned 0 times
+        486327 (43.94%) aligned exactly 1 time
+        170280 (15.39%) aligned >1 times
+98.61% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544440_GSM4753031_COVID_11_52y_female_NonICU_Homo_sapiens_RNA-Seq
+15924414 reads; of these:
+  15924414 (100.00%) were paired; of these:
+    726046 (4.56%) aligned concordantly 0 times
+    14104110 (88.57%) aligned concordantly exactly 1 time
+    1094258 (6.87%) aligned concordantly >1 times
+    ----
+    726046 pairs aligned concordantly 0 times; of these:
+      158538 (21.84%) aligned discordantly 1 time
+    ----
+    567508 pairs aligned 0 times concordantly or discordantly; of these:
+      1135016 mates make up the pairs; of these:
+        467808 (41.22%) aligned 0 times
+        496967 (43.79%) aligned exactly 1 time
+        170241 (15.00%) aligned >1 times
+98.53% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544441_GSM4753032_COVID_12_50y_male_ICU_Homo_sapiens_RNA-Seq
+16186715 reads; of these:
+  16186715 (100.00%) were paired; of these:
+    682069 (4.21%) aligned concordantly 0 times
+    14645189 (90.48%) aligned concordantly exactly 1 time
+    859457 (5.31%) aligned concordantly >1 times
+    ----
+    682069 pairs aligned concordantly 0 times; of these:
+      174811 (25.63%) aligned discordantly 1 time
+    ----
+    507258 pairs aligned 0 times concordantly or discordantly; of these:
+      1014516 mates make up the pairs; of these:
+        404426 (39.86%) aligned 0 times
+        466483 (45.98%) aligned exactly 1 time
+        143607 (14.16%) aligned >1 times
+98.75% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544442_GSM4753032_COVID_12_50y_male_ICU_Homo_sapiens_RNA-Seq
+15927240 reads; of these:
+  15927240 (100.00%) were paired; of these:
+    695948 (4.37%) aligned concordantly 0 times
+    14389669 (90.35%) aligned concordantly exactly 1 time
+    841623 (5.28%) aligned concordantly >1 times
+    ----
+    695948 pairs aligned concordantly 0 times; of these:
+      171613 (24.66%) aligned discordantly 1 time
+    ----
+    524335 pairs aligned 0 times concordantly or discordantly; of these:
+      1048670 mates make up the pairs; of these:
+        423195 (40.36%) aligned 0 times
+        481083 (45.88%) aligned exactly 1 time
+        144392 (13.77%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544443_GSM4753033_COVID_13_37y_male_NonICU_Homo_sapiens_RNA-Seq
+17795162 reads; of these:
+  17795162 (100.00%) were paired; of these:
+    1347364 (7.57%) aligned concordantly 0 times
+    15418269 (86.64%) aligned concordantly exactly 1 time
+    1029529 (5.79%) aligned concordantly >1 times
+    ----
+    1347364 pairs aligned concordantly 0 times; of these:
+      491089 (36.45%) aligned discordantly 1 time
+    ----
+    856275 pairs aligned 0 times concordantly or discordantly; of these:
+      1712550 mates make up the pairs; of these:
+        527927 (30.83%) aligned 0 times
+        849223 (49.59%) aligned exactly 1 time
+        335400 (19.58%) aligned >1 times
+98.52% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544444_GSM4753033_COVID_13_37y_male_NonICU_Homo_sapiens_RNA-Seq
+17521012 reads; of these:
+  17521012 (100.00%) were paired; of these:
+    1353139 (7.72%) aligned concordantly 0 times
+    15157645 (86.51%) aligned concordantly exactly 1 time
+    1010228 (5.77%) aligned concordantly >1 times
+    ----
+    1353139 pairs aligned concordantly 0 times; of these:
+      484185 (35.78%) aligned discordantly 1 time
+    ----
+    868954 pairs aligned 0 times concordantly or discordantly; of these:
+      1737908 mates make up the pairs; of these:
+        546402 (31.44%) aligned 0 times
+        855926 (49.25%) aligned exactly 1 time
+        335580 (19.31%) aligned >1 times
+98.44% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544445_GSM4753034_COVID_14_55y_male_ICU_Homo_sapiens_RNA-Seq
+17603978 reads; of these:
+  17603978 (100.00%) were paired; of these:
+    843070 (4.79%) aligned concordantly 0 times
+    15921255 (90.44%) aligned concordantly exactly 1 time
+    839653 (4.77%) aligned concordantly >1 times
+    ----
+    843070 pairs aligned concordantly 0 times; of these:
+      312790 (37.10%) aligned discordantly 1 time
+    ----
+    530280 pairs aligned 0 times concordantly or discordantly; of these:
+      1060560 mates make up the pairs; of these:
+        383667 (36.18%) aligned 0 times
+        516181 (48.67%) aligned exactly 1 time
+        160712 (15.15%) aligned >1 times
+98.91% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544446_GSM4753034_COVID_14_55y_male_ICU_Homo_sapiens_RNA-Seq
+17336263 reads; of these:
+  17336263 (100.00%) were paired; of these:
+    856542 (4.94%) aligned concordantly 0 times
+    15662352 (90.34%) aligned concordantly exactly 1 time
+    817369 (4.71%) aligned concordantly >1 times
+    ----
+    856542 pairs aligned concordantly 0 times; of these:
+      308162 (35.98%) aligned discordantly 1 time
+    ----
+    548380 pairs aligned 0 times concordantly or discordantly; of these:
+      1096760 mates make up the pairs; of these:
+        405026 (36.93%) aligned 0 times
+        530430 (48.36%) aligned exactly 1 time
+        161304 (14.71%) aligned >1 times
+98.83% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544447_GSM4753035_COVID_15_68y_male_ICU_Homo_sapiens_RNA-Seq
+Skipping SRR12544419_GSM4753021_COVID_01_39y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544420_GSM4753021_COVID_01_39y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544421_GSM4753022_COVID_02_63y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544422_GSM4753022_COVID_02_63y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544423_GSM4753023_COVID_03_33y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544424_GSM4753023_COVID_03_33y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544425_GSM4753024_COVID_04_49y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544426_GSM4753024_COVID_04_49y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544427_GSM4753025_COVID_05_49y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544428_GSM4753025_COVID_05_49y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544429_GSM4753026_COVID_06_y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544430_GSM4753026_COVID_06_y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544431_GSM4753027_COVID_07_38y_female_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544432_GSM4753027_COVID_07_38y_female_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544433_GSM4753028_COVID_08_78y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544434_GSM4753028_COVID_08_78y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544435_GSM4753029_COVID_09_64y_female_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544436_GSM4753029_COVID_09_64y_female_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544437_GSM4753030_COVID_10_62y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544438_GSM4753030_COVID_10_62y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544439_GSM4753031_COVID_11_52y_female_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544440_GSM4753031_COVID_11_52y_female_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544441_GSM4753032_COVID_12_50y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544442_GSM4753032_COVID_12_50y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544443_GSM4753033_COVID_13_37y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544444_GSM4753033_COVID_13_37y_male_NonICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544445_GSM4753034_COVID_14_55y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Skipping SRR12544446_GSM4753034_COVID_14_55y_male_ICU_Homo_sapiens_RNA-Seq as it has already been processed.
+Processing sample: SRR12544447_GSM4753035_COVID_15_68y_male_ICU_Homo_sapiens_RNA-Seq
+16142015 reads; of these:
+  16142015 (100.00%) were paired; of these:
+    1331416 (8.25%) aligned concordantly 0 times
+    14040111 (86.98%) aligned concordantly exactly 1 time
+    770488 (4.77%) aligned concordantly >1 times
+    ----
+    1331416 pairs aligned concordantly 0 times; of these:
+      566326 (42.54%) aligned discordantly 1 time
+    ----
+    765090 pairs aligned 0 times concordantly or discordantly; of these:
+      1530180 mates make up the pairs; of these:
+        432923 (28.29%) aligned 0 times
+        794541 (51.92%) aligned exactly 1 time
+        302716 (19.78%) aligned >1 times
+98.66% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544448_GSM4753035_COVID_15_68y_male_ICU_Homo_sapiens_RNA-Seq
+15889566 reads; of these:
+  15889566 (100.00%) were paired; of these:
+    1333176 (8.39%) aligned concordantly 0 times
+    13801983 (86.86%) aligned concordantly exactly 1 time
+    754407 (4.75%) aligned concordantly >1 times
+    ----
+    1333176 pairs aligned concordantly 0 times; of these:
+      556493 (41.74%) aligned discordantly 1 time
+    ----
+    776683 pairs aligned 0 times concordantly or discordantly; of these:
+      1553366 mates make up the pairs; of these:
+        449442 (28.93%) aligned 0 times
+        802765 (51.68%) aligned exactly 1 time
+        301159 (19.39%) aligned >1 times
+98.59% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544449_GSM4753036_COVID_16_48y_male_NonICU_Homo_sapiens_RNA-Seq
+18726816 reads; of these:
+  18726816 (100.00%) were paired; of these:
+    1402988 (7.49%) aligned concordantly 0 times
+    16216593 (86.60%) aligned concordantly exactly 1 time
+    1107235 (5.91%) aligned concordantly >1 times
+    ----
+    1402988 pairs aligned concordantly 0 times; of these:
+      472317 (33.67%) aligned discordantly 1 time
+    ----
+    930671 pairs aligned 0 times concordantly or discordantly; of these:
+      1861342 mates make up the pairs; of these:
+        593589 (31.89%) aligned 0 times
+        904504 (48.59%) aligned exactly 1 time
+        363249 (19.52%) aligned >1 times
+98.42% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544450_GSM4753036_COVID_16_48y_male_NonICU_Homo_sapiens_RNA-Seq
+18434412 reads; of these:
+  18434412 (100.00%) were paired; of these:
+    1409078 (7.64%) aligned concordantly 0 times
+    15938248 (86.46%) aligned concordantly exactly 1 time
+    1087086 (5.90%) aligned concordantly >1 times
+    ----
+    1409078 pairs aligned concordantly 0 times; of these:
+      466183 (33.08%) aligned discordantly 1 time
+    ----
+    942895 pairs aligned 0 times concordantly or discordantly; of these:
+      1885790 mates make up the pairs; of these:
+        612278 (32.47%) aligned 0 times
+        910148 (48.26%) aligned exactly 1 time
+        363364 (19.27%) aligned >1 times
+98.34% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544451_GSM4753037_COVID_17_54y_male_NonICU_Homo_sapiens_RNA-Seq
+13430080 reads; of these:
+  13430080 (100.00%) were paired; of these:
+    598516 (4.46%) aligned concordantly 0 times
+    12044479 (89.68%) aligned concordantly exactly 1 time
+    787085 (5.86%) aligned concordantly >1 times
+    ----
+    598516 pairs aligned concordantly 0 times; of these:
+      157765 (26.36%) aligned discordantly 1 time
+    ----
+    440751 pairs aligned 0 times concordantly or discordantly; of these:
+      881502 mates make up the pairs; of these:
+        339241 (38.48%) aligned 0 times
+        400621 (45.45%) aligned exactly 1 time
+        141640 (16.07%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544452_GSM4753037_COVID_17_54y_male_NonICU_Homo_sapiens_RNA-Seq
+13190784 reads; of these:
+  13190784 (100.00%) were paired; of these:
+    605289 (4.59%) aligned concordantly 0 times
+    11817721 (89.59%) aligned concordantly exactly 1 time
+    767774 (5.82%) aligned concordantly >1 times
+    ----
+    605289 pairs aligned concordantly 0 times; of these:
+      154573 (25.54%) aligned discordantly 1 time
+    ----
+    450716 pairs aligned 0 times concordantly or discordantly; of these:
+      901432 mates make up the pairs; of these:
+        351306 (38.97%) aligned 0 times
+        407673 (45.23%) aligned exactly 1 time
+        142453 (15.80%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544453_GSM4753038_COVID_18_70y_female_NonICU_Homo_sapiens_RNA-Seq
+16689562 reads; of these:
+  16689562 (100.00%) were paired; of these:
+    720995 (4.32%) aligned concordantly 0 times
+    14906817 (89.32%) aligned concordantly exactly 1 time
+    1061750 (6.36%) aligned concordantly >1 times
+    ----
+    720995 pairs aligned concordantly 0 times; of these:
+      193174 (26.79%) aligned discordantly 1 time
+    ----
+    527821 pairs aligned 0 times concordantly or discordantly; of these:
+      1055642 mates make up the pairs; of these:
+        414166 (39.23%) aligned 0 times
+        483520 (45.80%) aligned exactly 1 time
+        157956 (14.96%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544454_GSM4753038_COVID_18_70y_female_NonICU_Homo_sapiens_RNA-Seq
+16414194 reads; of these:
+  16414194 (100.00%) were paired; of these:
+    735243 (4.48%) aligned concordantly 0 times
+    14623139 (89.09%) aligned concordantly exactly 1 time
+    1055812 (6.43%) aligned concordantly >1 times
+    ----
+    735243 pairs aligned concordantly 0 times; of these:
+      190977 (25.97%) aligned discordantly 1 time
+    ----
+    544266 pairs aligned 0 times concordantly or discordantly; of these:
+      1088532 mates make up the pairs; of these:
+        433183 (39.80%) aligned 0 times
+        494528 (45.43%) aligned exactly 1 time
+        160821 (14.77%) aligned >1 times
+98.68% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544455_GSM4753039_COVID_19_51y_male_NonICU_Homo_sapiens_RNA-Seq
+17169572 reads; of these:
+  17169572 (100.00%) were paired; of these:
+    1080661 (6.29%) aligned concordantly 0 times
+    15202090 (88.54%) aligned concordantly exactly 1 time
+    886821 (5.17%) aligned concordantly >1 times
+    ----
+    1080661 pairs aligned concordantly 0 times; of these:
+      387360 (35.84%) aligned discordantly 1 time
+    ----
+    693301 pairs aligned 0 times concordantly or discordantly; of these:
+      1386602 mates make up the pairs; of these:
+        431714 (31.13%) aligned 0 times
+        690313 (49.78%) aligned exactly 1 time
+        264575 (19.08%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544456_GSM4753039_COVID_19_51y_male_NonICU_Homo_sapiens_RNA-Seq
+16882098 reads; of these:
+  16882098 (100.00%) were paired; of these:
+    1086129 (6.43%) aligned concordantly 0 times
+    14928008 (88.43%) aligned concordantly exactly 1 time
+    867961 (5.14%) aligned concordantly >1 times
+    ----
+    1086129 pairs aligned concordantly 0 times; of these:
+      381955 (35.17%) aligned discordantly 1 time
+    ----
+    704174 pairs aligned 0 times concordantly or discordantly; of these:
+      1408348 mates make up the pairs; of these:
+        447253 (31.76%) aligned 0 times
+        697060 (49.49%) aligned exactly 1 time
+        264035 (18.75%) aligned >1 times
+98.68% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544457_GSM4753040_COVID_20_62y_male_ICU_Homo_sapiens_RNA-Seq
+17137571 reads; of these:
+  17137571 (100.00%) were paired; of these:
+    816469 (4.76%) aligned concordantly 0 times
+    15539499 (90.68%) aligned concordantly exactly 1 time
+    781603 (4.56%) aligned concordantly >1 times
+    ----
+    816469 pairs aligned concordantly 0 times; of these:
+      255683 (31.32%) aligned discordantly 1 time
+    ----
+    560786 pairs aligned 0 times concordantly or discordantly; of these:
+      1121572 mates make up the pairs; of these:
+        447380 (39.89%) aligned 0 times
+        515951 (46.00%) aligned exactly 1 time
+        158241 (14.11%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544458_GSM4753040_COVID_20_62y_male_ICU_Homo_sapiens_RNA-Seq
+16861117 reads; of these:
+  16861117 (100.00%) were paired; of these:
+    830002 (4.92%) aligned concordantly 0 times
+    15264030 (90.53%) aligned concordantly exactly 1 time
+    767085 (4.55%) aligned concordantly >1 times
+    ----
+    830002 pairs aligned concordantly 0 times; of these:
+      254072 (30.61%) aligned discordantly 1 time
+    ----
+    575930 pairs aligned 0 times concordantly or discordantly; of these:
+      1151860 mates make up the pairs; of these:
+        466464 (40.50%) aligned 0 times
+        526814 (45.74%) aligned exactly 1 time
+        158582 (13.77%) aligned >1 times
+98.62% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544459_GSM4753041_COVID_21_66y_male_ICU_Homo_sapiens_RNA-Seq
+18983910 reads; of these:
+  18983910 (100.00%) were paired; of these:
+    746143 (3.93%) aligned concordantly 0 times
+    17325312 (91.26%) aligned concordantly exactly 1 time
+    912455 (4.81%) aligned concordantly >1 times
+    ----
+    746143 pairs aligned concordantly 0 times; of these:
+      211078 (28.29%) aligned discordantly 1 time
+    ----
+    535065 pairs aligned 0 times concordantly or discordantly; of these:
+      1070130 mates make up the pairs; of these:
+        411215 (38.43%) aligned 0 times
+        504333 (47.13%) aligned exactly 1 time
+        154582 (14.45%) aligned >1 times
+98.92% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544460_GSM4753041_COVID_21_66y_male_ICU_Homo_sapiens_RNA-Seq
+18699213 reads; of these:
+  18699213 (100.00%) were paired; of these:
+    761661 (4.07%) aligned concordantly 0 times
+    17037193 (91.11%) aligned concordantly exactly 1 time
+    900359 (4.81%) aligned concordantly >1 times
+    ----
+    761661 pairs aligned concordantly 0 times; of these:
+      208454 (27.37%) aligned discordantly 1 time
+    ----
+    553207 pairs aligned 0 times concordantly or discordantly; of these:
+      1106414 mates make up the pairs; of these:
+        433706 (39.20%) aligned 0 times
+        517455 (46.77%) aligned exactly 1 time
+        155253 (14.03%) aligned >1 times
+98.84% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544461_GSM4753042_COVID_22_43y_male_ICU_Homo_sapiens_RNA-Seq
+15817237 reads; of these:
+  15817237 (100.00%) were paired; of these:
+    1375661 (8.70%) aligned concordantly 0 times
+    13549223 (85.66%) aligned concordantly exactly 1 time
+    892353 (5.64%) aligned concordantly >1 times
+    ----
+    1375661 pairs aligned concordantly 0 times; of these:
+      593201 (43.12%) aligned discordantly 1 time
+    ----
+    782460 pairs aligned 0 times concordantly or discordantly; of these:
+      1564920 mates make up the pairs; of these:
+        398991 (25.50%) aligned 0 times
+        812625 (51.93%) aligned exactly 1 time
+        353304 (22.58%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544462_GSM4753042_COVID_22_43y_male_ICU_Homo_sapiens_RNA-Seq
+15554405 reads; of these:
+  15554405 (100.00%) were paired; of these:
+    1377886 (8.86%) aligned concordantly 0 times
+    13303590 (85.53%) aligned concordantly exactly 1 time
+    872929 (5.61%) aligned concordantly >1 times
+    ----
+    1377886 pairs aligned concordantly 0 times; of these:
+      584382 (42.41%) aligned discordantly 1 time
+    ----
+    793504 pairs aligned 0 times concordantly or discordantly; of these:
+      1587008 mates make up the pairs; of these:
+        416058 (26.22%) aligned 0 times
+        817977 (51.54%) aligned exactly 1 time
+        352973 (22.24%) aligned >1 times
+98.66% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544463_GSM4753043_COVID_23_76y_male_ICU_Homo_sapiens_RNA-Seq
+15201518 reads; of these:
+  15201518 (100.00%) were paired; of these:
+    1043592 (6.87%) aligned concordantly 0 times
+    13385401 (88.05%) aligned concordantly exactly 1 time
+    772525 (5.08%) aligned concordantly >1 times
+    ----
+    1043592 pairs aligned concordantly 0 times; of these:
+      414589 (39.73%) aligned discordantly 1 time
+    ----
+    629003 pairs aligned 0 times concordantly or discordantly; of these:
+      1258006 mates make up the pairs; of these:
+        362033 (28.78%) aligned 0 times
+        635239 (50.50%) aligned exactly 1 time
+        260734 (20.73%) aligned >1 times
+98.81% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544464_GSM4753043_COVID_23_76y_male_ICU_Homo_sapiens_RNA-Seq
+14965824 reads; of these:
+  14965824 (100.00%) were paired; of these:
+    1050791 (7.02%) aligned concordantly 0 times
+    13152848 (87.89%) aligned concordantly exactly 1 time
+    762185 (5.09%) aligned concordantly >1 times
+    ----
+    1050791 pairs aligned concordantly 0 times; of these:
+      406166 (38.65%) aligned discordantly 1 time
+    ----
+    644625 pairs aligned 0 times concordantly or discordantly; of these:
+      1289250 mates make up the pairs; of these:
+        378861 (29.39%) aligned 0 times
+        648016 (50.26%) aligned exactly 1 time
+        262373 (20.35%) aligned >1 times
+98.73% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544465_GSM4753044_COVID_24_55y_male_ICU_Homo_sapiens_RNA-Seq
+16694765 reads; of these:
+  16694765 (100.00%) were paired; of these:
+    790929 (4.74%) aligned concordantly 0 times
+    15151419 (90.76%) aligned concordantly exactly 1 time
+    752417 (4.51%) aligned concordantly >1 times
+    ----
+    790929 pairs aligned concordantly 0 times; of these:
+      275897 (34.88%) aligned discordantly 1 time
+    ----
+    515032 pairs aligned 0 times concordantly or discordantly; of these:
+      1030064 mates make up the pairs; of these:
+        366772 (35.61%) aligned 0 times
+        502502 (48.78%) aligned exactly 1 time
+        160790 (15.61%) aligned >1 times
+98.90% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544466_GSM4753044_COVID_24_55y_male_ICU_Homo_sapiens_RNA-Seq
+16395711 reads; of these:
+  16395711 (100.00%) were paired; of these:
+    798586 (4.87%) aligned concordantly 0 times
+    14859975 (90.63%) aligned concordantly exactly 1 time
+    737150 (4.50%) aligned concordantly >1 times
+    ----
+    798586 pairs aligned concordantly 0 times; of these:
+      270618 (33.89%) aligned discordantly 1 time
+    ----
+    527968 pairs aligned 0 times concordantly or discordantly; of these:
+      1055936 mates make up the pairs; of these:
+        384548 (36.42%) aligned 0 times
+        510127 (48.31%) aligned exactly 1 time
+        161261 (15.27%) aligned >1 times
+98.83% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544467_GSM4753045_COVID_25_55y_male_ICU_Homo_sapiens_RNA-Seq
+17929465 reads; of these:
+  17929465 (100.00%) were paired; of these:
+    1034044 (5.77%) aligned concordantly 0 times
+    15695668 (87.54%) aligned concordantly exactly 1 time
+    1199753 (6.69%) aligned concordantly >1 times
+    ----
+    1034044 pairs aligned concordantly 0 times; of these:
+      349020 (33.75%) aligned discordantly 1 time
+    ----
+    685024 pairs aligned 0 times concordantly or discordantly; of these:
+      1370048 mates make up the pairs; of these:
+        462011 (33.72%) aligned 0 times
+        653871 (47.73%) aligned exactly 1 time
+        254166 (18.55%) aligned >1 times
+98.71% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544468_GSM4753045_COVID_25_55y_male_ICU_Homo_sapiens_RNA-Seq
+17665648 reads; of these:
+  17665648 (100.00%) were paired; of these:
+    1045418 (5.92%) aligned concordantly 0 times
+    15443394 (87.42%) aligned concordantly exactly 1 time
+    1176836 (6.66%) aligned concordantly >1 times
+    ----
+    1045418 pairs aligned concordantly 0 times; of these:
+      342231 (32.74%) aligned discordantly 1 time
+    ----
+    703187 pairs aligned 0 times concordantly or discordantly; of these:
+      1406374 mates make up the pairs; of these:
+        484164 (34.43%) aligned 0 times
+        668413 (47.53%) aligned exactly 1 time
+        253797 (18.05%) aligned >1 times
+98.63% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544469_GSM4753046_COVID_26_41y_female_ICU_Homo_sapiens_RNA-Seq
+15257772 reads; of these:
+  15257772 (100.00%) were paired; of these:
+    775675 (5.08%) aligned concordantly 0 times
+    13739197 (90.05%) aligned concordantly exactly 1 time
+    742900 (4.87%) aligned concordantly >1 times
+    ----
+    775675 pairs aligned concordantly 0 times; of these:
+      267087 (34.43%) aligned discordantly 1 time
+    ----
+    508588 pairs aligned 0 times concordantly or discordantly; of these:
+      1017176 mates make up the pairs; of these:
+        367551 (36.13%) aligned 0 times
+        494777 (48.64%) aligned exactly 1 time
+        154848 (15.22%) aligned >1 times
+98.80% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544470_GSM4753046_COVID_26_41y_female_ICU_Homo_sapiens_RNA-Seq
+15036109 reads; of these:
+  15036109 (100.00%) were paired; of these:
+    784863 (5.22%) aligned concordantly 0 times
+    13518871 (89.91%) aligned concordantly exactly 1 time
+    732375 (4.87%) aligned concordantly >1 times
+    ----
+    784863 pairs aligned concordantly 0 times; of these:
+      263447 (33.57%) aligned discordantly 1 time
+    ----
+    521416 pairs aligned 0 times concordantly or discordantly; of these:
+      1042832 mates make up the pairs; of these:
+        384292 (36.85%) aligned 0 times
+        502307 (48.17%) aligned exactly 1 time
+        156233 (14.98%) aligned >1 times
+98.72% overall alignment rate
+[bam_sort_core] merging from 14 files...
+HISAT2 finished running!
+Time taken: 27470 seconds.
+#next lot
+Processing sample: SRR12544471_GSM4753047_COVID_27_71y_female_ICU_Homo_sapiens_RNA-Seq
+17854688 reads; of these:
+  17854688 (100.00%) were paired; of these:
+    780096 (4.37%) aligned concordantly 0 times
+    15964078 (89.41%) aligned concordantly exactly 1 time
+    1110514 (6.22%) aligned concordantly >1 times
+    ----
+    780096 pairs aligned concordantly 0 times; of these:
+      206768 (26.51%) aligned discordantly 1 time
+    ----
+    573328 pairs aligned 0 times concordantly or discordantly; of these:
+      1146656 mates make up the pairs; of these:
+        449151 (39.17%) aligned 0 times
+        518947 (45.26%) aligned exactly 1 time
+        178558 (15.57%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544472_GSM4753047_COVID_27_71y_female_ICU_Homo_sapiens_RNA-Seq
+17588144 reads; of these:
+  17588144 (100.00%) were paired; of these:
+    792560 (4.51%) aligned concordantly 0 times
+    15707300 (89.31%) aligned concordantly exactly 1 time
+    1088284 (6.19%) aligned concordantly >1 times
+    ----
+    792560 pairs aligned concordantly 0 times; of these:
+      203637 (25.69%) aligned discordantly 1 time
+    ----
+    588923 pairs aligned 0 times concordantly or discordantly; of these:
+      1177846 mates make up the pairs; of these:
+        468407 (39.77%) aligned 0 times
+        531062 (45.09%) aligned exactly 1 time
+        178377 (15.14%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544473_GSM4753048_COVID_28_63y_male_ICU_Homo_sapiens_RNA-Seq
+16815143 reads; of these:
+  16815143 (100.00%) were paired; of these:
+    772541 (4.59%) aligned concordantly 0 times
+    15211833 (90.47%) aligned concordantly exactly 1 time
+    830769 (4.94%) aligned concordantly >1 times
+    ----
+    772541 pairs aligned concordantly 0 times; of these:
+      229086 (29.65%) aligned discordantly 1 time
+    ----
+    543455 pairs aligned 0 times concordantly or discordantly; of these:
+      1086910 mates make up the pairs; of these:
+        426444 (39.23%) aligned 0 times
+        502820 (46.26%) aligned exactly 1 time
+        157646 (14.50%) aligned >1 times
+98.73% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544474_GSM4753048_COVID_28_63y_male_ICU_Homo_sapiens_RNA-Seq
+16555924 reads; of these:
+  16555924 (100.00%) were paired; of these:
+    783839 (4.73%) aligned concordantly 0 times
+    14955274 (90.33%) aligned concordantly exactly 1 time
+    816811 (4.93%) aligned concordantly >1 times
+    ----
+    783839 pairs aligned concordantly 0 times; of these:
+      226015 (28.83%) aligned discordantly 1 time
+    ----
+    557824 pairs aligned 0 times concordantly or discordantly; of these:
+      1115648 mates make up the pairs; of these:
+        441984 (39.62%) aligned 0 times
+        516859 (46.33%) aligned exactly 1 time
+        156805 (14.06%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544475_GSM4753049_COVID_29_63y_female_ICU_Homo_sapiens_RNA-Seq
+13088939 reads; of these:
+  13088939 (100.00%) were paired; of these:
+    619740 (4.73%) aligned concordantly 0 times
+    11711722 (89.48%) aligned concordantly exactly 1 time
+    757477 (5.79%) aligned concordantly >1 times
+    ----
+    619740 pairs aligned concordantly 0 times; of these:
+      169111 (27.29%) aligned discordantly 1 time
+    ----
+    450629 pairs aligned 0 times concordantly or discordantly; of these:
+      901258 mates make up the pairs; of these:
+        340150 (37.74%) aligned 0 times
+        421931 (46.82%) aligned exactly 1 time
+        139177 (15.44%) aligned >1 times
+98.70% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544476_GSM4753049_COVID_29_63y_female_ICU_Homo_sapiens_RNA-Seq
+12862711 reads; of these:
+  12862711 (100.00%) were paired; of these:
+    627132 (4.88%) aligned concordantly 0 times
+    11486442 (89.30%) aligned concordantly exactly 1 time
+    749137 (5.82%) aligned concordantly >1 times
+    ----
+    627132 pairs aligned concordantly 0 times; of these:
+      165888 (26.45%) aligned discordantly 1 time
+    ----
+    461244 pairs aligned 0 times concordantly or discordantly; of these:
+      922488 mates make up the pairs; of these:
+        353516 (38.32%) aligned 0 times
+        428871 (46.49%) aligned exactly 1 time
+        140101 (15.19%) aligned >1 times
+98.63% overall alignment rate
+[bam_sort_core] merging from 12 files...
+Processing sample: SRR12544477_GSM4753050_COVID_30_54y_male_ICU_Homo_sapiens_RNA-Seq
+17291683 reads; of these:
+  17291683 (100.00%) were paired; of these:
+    743264 (4.30%) aligned concordantly 0 times
+    15395334 (89.03%) aligned concordantly exactly 1 time
+    1153085 (6.67%) aligned concordantly >1 times
+    ----
+    743264 pairs aligned concordantly 0 times; of these:
+      181255 (24.39%) aligned discordantly 1 time
+    ----
+    562009 pairs aligned 0 times concordantly or discordantly; of these:
+      1124018 mates make up the pairs; of these:
+        412777 (36.72%) aligned 0 times
+        525474 (46.75%) aligned exactly 1 time
+        185767 (16.53%) aligned >1 times
+98.81% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544478_GSM4753050_COVID_30_54y_male_ICU_Homo_sapiens_RNA-Seq
+17021354 reads; of these:
+  17021354 (100.00%) were paired; of these:
+    756064 (4.44%) aligned concordantly 0 times
+    15197422 (89.28%) aligned concordantly exactly 1 time
+    1067868 (6.27%) aligned concordantly >1 times
+    ----
+    756064 pairs aligned concordantly 0 times; of these:
+      178364 (23.59%) aligned discordantly 1 time
+    ----
+    577700 pairs aligned 0 times concordantly or discordantly; of these:
+      1155400 mates make up the pairs; of these:
+        432096 (37.40%) aligned 0 times
+        537259 (46.50%) aligned exactly 1 time
+        186045 (16.10%) aligned >1 times
+98.73% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544479_GSM4753051_COVID_31_50y_male_ICU_Homo_sapiens_RNA-Seq
+13143882 reads; of these:
+  13143882 (100.00%) were paired; of these:
+    666189 (5.07%) aligned concordantly 0 times
+    11754771 (89.43%) aligned concordantly exactly 1 time
+    722922 (5.50%) aligned concordantly >1 times
+    ----
+    666189 pairs aligned concordantly 0 times; of these:
+      208102 (31.24%) aligned discordantly 1 time
+    ----
+    458087 pairs aligned 0 times concordantly or discordantly; of these:
+      916174 mates make up the pairs; of these:
+        343801 (37.53%) aligned 0 times
+        427053 (46.61%) aligned exactly 1 time
+        145320 (15.86%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544480_GSM4753051_COVID_31_50y_male_ICU_Homo_sapiens_RNA-Seq
+12941470 reads; of these:
+  12941470 (100.00%) were paired; of these:
+    674327 (5.21%) aligned concordantly 0 times
+    11567518 (89.38%) aligned concordantly exactly 1 time
+    699625 (5.41%) aligned concordantly >1 times
+    ----
+    674327 pairs aligned concordantly 0 times; of these:
+      204489 (30.32%) aligned discordantly 1 time
+    ----
+    469838 pairs aligned 0 times concordantly or discordantly; of these:
+      939676 mates make up the pairs; of these:
+        358249 (38.12%) aligned 0 times
+        436327 (46.43%) aligned exactly 1 time
+        145100 (15.44%) aligned >1 times
+98.62% overall alignment rate
+[bam_sort_core] merging from 12 files...
+Processing sample: SRR12544481_GSM4753052_COVID_32_72y_male_ICU_Homo_sapiens_RNA-Seq
+16103780 reads; of these:
+  16103780 (100.00%) were paired; of these:
+    742104 (4.61%) aligned concordantly 0 times
+    14387538 (89.34%) aligned concordantly exactly 1 time
+    974138 (6.05%) aligned concordantly >1 times
+    ----
+    742104 pairs aligned concordantly 0 times; of these:
+      212306 (28.61%) aligned discordantly 1 time
+    ----
+    529798 pairs aligned 0 times concordantly or discordantly; of these:
+      1059596 mates make up the pairs; of these:
+        389891 (36.80%) aligned 0 times
+        503575 (47.53%) aligned exactly 1 time
+        166130 (15.68%) aligned >1 times
+98.79% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544482_GSM4753052_COVID_32_72y_male_ICU_Homo_sapiens_RNA-Seq
+15842530 reads; of these:
+  15842530 (100.00%) were paired; of these:
+    750866 (4.74%) aligned concordantly 0 times
+    14133165 (89.21%) aligned concordantly exactly 1 time
+    958499 (6.05%) aligned concordantly >1 times
+    ----
+    750866 pairs aligned concordantly 0 times; of these:
+      207337 (27.61%) aligned discordantly 1 time
+    ----
+    543529 pairs aligned 0 times concordantly or discordantly; of these:
+      1087058 mates make up the pairs; of these:
+        406711 (37.41%) aligned 0 times
+        514216 (47.30%) aligned exactly 1 time
+        166131 (15.28%) aligned >1 times
+98.72% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544483_GSM4753053_COVID_33_81y_male_NonICU_Homo_sapiens_RNA-Seq
+15222489 reads; of these:
+  15222489 (100.00%) were paired; of these:
+    851396 (5.59%) aligned concordantly 0 times
+    13456273 (88.40%) aligned concordantly exactly 1 time
+    914820 (6.01%) aligned concordantly >1 times
+    ----
+    851396 pairs aligned concordantly 0 times; of these:
+      218327 (25.64%) aligned discordantly 1 time
+    ----
+    633069 pairs aligned 0 times concordantly or discordantly; of these:
+      1266138 mates make up the pairs; of these:
+        500159 (39.50%) aligned 0 times
+        556005 (43.91%) aligned exactly 1 time
+        209974 (16.58%) aligned >1 times
+98.36% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544484_GSM4753053_COVID_33_81y_male_NonICU_Homo_sapiens_RNA-Seq
+14970176 reads; of these:
+  14970176 (100.00%) were paired; of these:
+    861333 (5.75%) aligned concordantly 0 times
+    13211529 (88.25%) aligned concordantly exactly 1 time
+    897314 (5.99%) aligned concordantly >1 times
+    ----
+    861333 pairs aligned concordantly 0 times; of these:
+      215523 (25.02%) aligned discordantly 1 time
+    ----
+    645810 pairs aligned 0 times concordantly or discordantly; of these:
+      1291620 mates make up the pairs; of these:
+        516079 (39.96%) aligned 0 times
+        568220 (43.99%) aligned exactly 1 time
+        207321 (16.05%) aligned >1 times
+98.28% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544485_GSM4753054_COVID_34_64y_female_NonICU_Homo_sapiens_RNA-Seq
+15640719 reads; of these:
+  15640719 (100.00%) were paired; of these:
+    704306 (4.50%) aligned concordantly 0 times
+    13953459 (89.21%) aligned concordantly exactly 1 time
+    982954 (6.28%) aligned concordantly >1 times
+    ----
+    704306 pairs aligned concordantly 0 times; of these:
+      226918 (32.22%) aligned discordantly 1 time
+    ----
+    477388 pairs aligned 0 times concordantly or discordantly; of these:
+      954776 mates make up the pairs; of these:
+        331069 (34.68%) aligned 0 times
+        472795 (49.52%) aligned exactly 1 time
+        150912 (15.81%) aligned >1 times
+98.94% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544486_GSM4753054_COVID_34_64y_female_NonICU_Homo_sapiens_RNA-Seq
+15387717 reads; of these:
+  15387717 (100.00%) were paired; of these:
+    714082 (4.64%) aligned concordantly 0 times
+    13756590 (89.40%) aligned concordantly exactly 1 time
+    917045 (5.96%) aligned concordantly >1 times
+    ----
+    714082 pairs aligned concordantly 0 times; of these:
+      224392 (31.42%) aligned discordantly 1 time
+    ----
+    489690 pairs aligned 0 times concordantly or discordantly; of these:
+      979380 mates make up the pairs; of these:
+        347369 (35.47%) aligned 0 times
+        482820 (49.30%) aligned exactly 1 time
+        149191 (15.23%) aligned >1 times
+98.87% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544487_GSM4753055_COVID_35_58y_female_NonICU_Homo_sapiens_RNA-Seq
+27262373 reads; of these:
+  27262373 (100.00%) were paired; of these:
+    1458310 (5.35%) aligned concordantly 0 times
+    24240648 (88.92%) aligned concordantly exactly 1 time
+    1563415 (5.73%) aligned concordantly >1 times
+    ----
+    1458310 pairs aligned concordantly 0 times; of these:
+      368193 (25.25%) aligned discordantly 1 time
+    ----
+    1090117 pairs aligned 0 times concordantly or discordantly; of these:
+      2180234 mates make up the pairs; of these:
+        926664 (42.50%) aligned 0 times
+        932610 (42.78%) aligned exactly 1 time
+        320960 (14.72%) aligned >1 times
+98.30% overall alignment rate
+[bam_sort_core] merging from 25 files...
+Processing sample: SRR12544488_GSM4753055_COVID_35_58y_female_NonICU_Homo_sapiens_RNA-Seq
+26877837 reads; of these:
+  26877837 (100.00%) were paired; of these:
+    1474959 (5.49%) aligned concordantly 0 times
+    23858543 (88.77%) aligned concordantly exactly 1 time
+    1544335 (5.75%) aligned concordantly >1 times
+    ----
+    1474959 pairs aligned concordantly 0 times; of these:
+      364237 (24.69%) aligned discordantly 1 time
+    ----
+    1110722 pairs aligned 0 times concordantly or discordantly; of these:
+      2221444 mates make up the pairs; of these:
+        954594 (42.97%) aligned 0 times
+        945757 (42.57%) aligned exactly 1 time
+        321093 (14.45%) aligned >1 times
+98.22% overall alignment rate
+[bam_sort_core] merging from 25 files...
+Processing sample: SRR12544489_GSM4753056_COVID_36_68y_male_NonICU_Homo_sapiens_RNA-Seq
+12388812 reads; of these:
+  12388812 (100.00%) were paired; of these:
+    1035479 (8.36%) aligned concordantly 0 times
+    10695905 (86.34%) aligned concordantly exactly 1 time
+    657428 (5.31%) aligned concordantly >1 times
+    ----
+    1035479 pairs aligned concordantly 0 times; of these:
+      433187 (41.83%) aligned discordantly 1 time
+    ----
+    602292 pairs aligned 0 times concordantly or discordantly; of these:
+      1204584 mates make up the pairs; of these:
+        341176 (28.32%) aligned 0 times
+        615132 (51.07%) aligned exactly 1 time
+        248276 (20.61%) aligned >1 times
+98.62% overall alignment rate
+[bam_sort_core] merging from 12 files...
+Processing sample: SRR12544490_GSM4753056_COVID_36_68y_male_NonICU_Homo_sapiens_RNA-Seq
+12173874 reads; of these:
+  12173874 (100.00%) were paired; of these:
+    1038366 (8.53%) aligned concordantly 0 times
+    10490303 (86.17%) aligned concordantly exactly 1 time
+    645205 (5.30%) aligned concordantly >1 times
+    ----
+    1038366 pairs aligned concordantly 0 times; of these:
+      424000 (40.83%) aligned discordantly 1 time
+    ----
+    614366 pairs aligned 0 times concordantly or discordantly; of these:
+      1228732 mates make up the pairs; of these:
+        355020 (28.89%) aligned 0 times
+        624706 (50.84%) aligned exactly 1 time
+        249006 (20.27%) aligned >1 times
+98.54% overall alignment rate
+[bam_sort_core] merging from 12 files...
+Processing sample: SRR12544491_GSM4753057_COVID_37_87y_male_NonICU_Homo_sapiens_RNA-Seq
+7553628 reads; of these:
+  7553628 (100.00%) were paired; of these:
+    340405 (4.51%) aligned concordantly 0 times
+    6837650 (90.52%) aligned concordantly exactly 1 time
+    375573 (4.97%) aligned concordantly >1 times
+    ----
+    340405 pairs aligned concordantly 0 times; of these:
+      107610 (31.61%) aligned discordantly 1 time
+    ----
+    232795 pairs aligned 0 times concordantly or discordantly; of these:
+      465590 mates make up the pairs; of these:
+        171514 (36.84%) aligned 0 times
+        222460 (47.78%) aligned exactly 1 time
+        71616 (15.38%) aligned >1 times
+98.86% overall alignment rate
+[bam_sort_core] merging from 7 files...
+Processing sample: SRR12544492_GSM4753057_COVID_37_87y_male_NonICU_Homo_sapiens_RNA-Seq
+7392517 reads; of these:
+  7392517 (100.00%) were paired; of these:
+    343428 (4.65%) aligned concordantly 0 times
+    6682100 (90.39%) aligned concordantly exactly 1 time
+    366989 (4.96%) aligned concordantly >1 times
+    ----
+    343428 pairs aligned concordantly 0 times; of these:
+      105792 (30.80%) aligned discordantly 1 time
+    ----
+    237636 pairs aligned 0 times concordantly or discordantly; of these:
+      475272 mates make up the pairs; of these:
+        178819 (37.62%) aligned 0 times
+        226181 (47.59%) aligned exactly 1 time
+        70272 (14.79%) aligned >1 times
+98.79% overall alignment rate
+[bam_sort_core] merging from 7 files...
+Processing sample: SRR12544494_GSM4753058_COVID_38_68y_male_ICU_Homo_sapiens_RNA-Seq
+11568445 reads; of these:
+  11568445 (100.00%) were paired; of these:
+    1067081 (9.22%) aligned concordantly 0 times
+    9935722 (85.89%) aligned concordantly exactly 1 time
+    565642 (4.89%) aligned concordantly >1 times
+    ----
+    1067081 pairs aligned concordantly 0 times; of these:
+      382063 (35.80%) aligned discordantly 1 time
+    ----
+    685018 pairs aligned 0 times concordantly or discordantly; of these:
+      1370036 mates make up the pairs; of these:
+        419888 (30.65%) aligned 0 times
+        660414 (48.20%) aligned exactly 1 time
+        289734 (21.15%) aligned >1 times
+98.19% overall alignment rate
+[bam_sort_core] merging from 11 files...
+Processing sample: SRR12544495_GSM4753059_COVID_39_80y_female_ICU_Homo_sapiens_RNA-Seq
+13988923 reads; of these:
+  13988923 (100.00%) were paired; of these:
+    706609 (5.05%) aligned concordantly 0 times
+    12291289 (87.86%) aligned concordantly exactly 1 time
+    991025 (7.08%) aligned concordantly >1 times
+    ----
+    706609 pairs aligned concordantly 0 times; of these:
+      182518 (25.83%) aligned discordantly 1 time
+    ----
+    524091 pairs aligned 0 times concordantly or discordantly; of these:
+      1048182 mates make up the pairs; of these:
+        392135 (37.41%) aligned 0 times
+        484904 (46.26%) aligned exactly 1 time
+        171143 (16.33%) aligned >1 times
+98.60% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544496_GSM4753059_COVID_39_80y_female_ICU_Homo_sapiens_RNA-Seq
+13758872 reads; of these:
+  13758872 (100.00%) were paired; of these:
+    715106 (5.20%) aligned concordantly 0 times
+    12074127 (87.76%) aligned concordantly exactly 1 time
+    969639 (7.05%) aligned concordantly >1 times
+    ----
+    715106 pairs aligned concordantly 0 times; of these:
+      180421 (25.23%) aligned discordantly 1 time
+    ----
+    534685 pairs aligned 0 times concordantly or discordantly; of these:
+      1069370 mates make up the pairs; of these:
+        404224 (37.80%) aligned 0 times
+        493270 (46.13%) aligned exactly 1 time
+        171876 (16.07%) aligned >1 times
+98.53% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544497_GSM4753060_COVID_40_66y_male_ICU_Homo_sapiens_RNA-Seq
+15086915 reads; of these:
+  15086915 (100.00%) were paired; of these:
+    833590 (5.53%) aligned concordantly 0 times
+    13543343 (89.77%) aligned concordantly exactly 1 time
+    709982 (4.71%) aligned concordantly >1 times
+    ----
+    833590 pairs aligned concordantly 0 times; of these:
+      277012 (33.23%) aligned discordantly 1 time
+    ----
+    556578 pairs aligned 0 times concordantly or discordantly; of these:
+      1113156 mates make up the pairs; of these:
+        428092 (38.46%) aligned 0 times
+        515014 (46.27%) aligned exactly 1 time
+        170050 (15.28%) aligned >1 times
+98.58% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544498_GSM4753060_COVID_40_66y_male_ICU_Homo_sapiens_RNA-Seq
+14850417 reads; of these:
+  14850417 (100.00%) were paired; of these:
+    842043 (5.67%) aligned concordantly 0 times
+    13313546 (89.65%) aligned concordantly exactly 1 time
+    694828 (4.68%) aligned concordantly >1 times
+    ----
+    842043 pairs aligned concordantly 0 times; of these:
+      273201 (32.45%) aligned discordantly 1 time
+    ----
+    568842 pairs aligned 0 times concordantly or discordantly; of these:
+      1137684 mates make up the pairs; of these:
+        444899 (39.11%) aligned 0 times
+        523749 (46.04%) aligned exactly 1 time
+        169036 (14.86%) aligned >1 times
+98.50% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544500_GSM4753061_COVID_41_74y_male_ICU_Homo_sapiens_RNA-Seq
+16857530 reads; of these:
+  16857530 (100.00%) were paired; of these:
+    671078 (3.98%) aligned concordantly 0 times
+    15182198 (90.06%) aligned concordantly exactly 1 time
+    1004254 (5.96%) aligned concordantly >1 times
+    ----
+    671078 pairs aligned concordantly 0 times; of these:
+      137821 (20.54%) aligned discordantly 1 time
+    ----
+    533257 pairs aligned 0 times concordantly or discordantly; of these:
+      1066514 mates make up the pairs; of these:
+        461808 (43.30%) aligned 0 times
+        464461 (43.55%) aligned exactly 1 time
+        140245 (13.15%) aligned >1 times
+98.63% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544501_GSM4753062_COVID_42_21y_female_ICU_Homo_sapiens_RNA-Seq
+15447357 reads; of these:
+  15447357 (100.00%) were paired; of these:
+    600362 (3.89%) aligned concordantly 0 times
+    13889026 (89.91%) aligned concordantly exactly 1 time
+    957969 (6.20%) aligned concordantly >1 times
+    ----
+    600362 pairs aligned concordantly 0 times; of these:
+      124006 (20.66%) aligned discordantly 1 time
+    ----
+    476356 pairs aligned 0 times concordantly or discordantly; of these:
+      952712 mates make up the pairs; of these:
+        389414 (40.87%) aligned 0 times
+        421722 (44.27%) aligned exactly 1 time
+        141576 (14.86%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544502_GSM4753062_COVID_42_21y_female_ICU_Homo_sapiens_RNA-Seq
+15185611 reads; of these:
+  15185611 (100.00%) were paired; of these:
+    613662 (4.04%) aligned concordantly 0 times
+    13630066 (89.76%) aligned concordantly exactly 1 time
+    941883 (6.20%) aligned concordantly >1 times
+    ----
+    613662 pairs aligned concordantly 0 times; of these:
+      122455 (19.95%) aligned discordantly 1 time
+    ----
+    491207 pairs aligned 0 times concordantly or discordantly; of these:
+      982414 mates make up the pairs; of these:
+        406852 (41.41%) aligned 0 times
+        433228 (44.10%) aligned exactly 1 time
+        142334 (14.49%) aligned >1 times
+98.66% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544503_GSM4753063_COVID_43_83y_female_ICU_Homo_sapiens_RNA-Seq
+13831857 reads; of these:
+  13831857 (100.00%) were paired; of these:
+    1007909 (7.29%) aligned concordantly 0 times
+    12033956 (87.00%) aligned concordantly exactly 1 time
+    789992 (5.71%) aligned concordantly >1 times
+    ----
+    1007909 pairs aligned concordantly 0 times; of these:
+      340130 (33.75%) aligned discordantly 1 time
+    ----
+    667779 pairs aligned 0 times concordantly or discordantly; of these:
+      1335558 mates make up the pairs; of these:
+        398893 (29.87%) aligned 0 times
+        655002 (49.04%) aligned exactly 1 time
+        281663 (21.09%) aligned >1 times
+98.56% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544504_GSM4753063_COVID_43_83y_female_ICU_Homo_sapiens_RNA-Seq
+13582783 reads; of these:
+  13582783 (100.00%) were paired; of these:
+    1011778 (7.45%) aligned concordantly 0 times
+    11799808 (86.87%) aligned concordantly exactly 1 time
+    771197 (5.68%) aligned concordantly >1 times
+    ----
+    1011778 pairs aligned concordantly 0 times; of these:
+      333966 (33.01%) aligned discordantly 1 time
+    ----
+    677812 pairs aligned 0 times concordantly or discordantly; of these:
+      1355624 mates make up the pairs; of these:
+        411312 (30.34%) aligned 0 times
+        663212 (48.92%) aligned exactly 1 time
+        281100 (20.74%) aligned >1 times
+98.49% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544505_GSM4753064_COVID_44_46y_male_ICU_Homo_sapiens_RNA-Seq
+14994483 reads; of these:
+  14994483 (100.00%) were paired; of these:
+    1076795 (7.18%) aligned concordantly 0 times
+    13114404 (87.46%) aligned concordantly exactly 1 time
+    803284 (5.36%) aligned concordantly >1 times
+    ----
+    1076795 pairs aligned concordantly 0 times; of these:
+      435180 (40.41%) aligned discordantly 1 time
+    ----
+    641615 pairs aligned 0 times concordantly or discordantly; of these:
+      1283230 mates make up the pairs; of these:
+        360061 (28.06%) aligned 0 times
+        655952 (51.12%) aligned exactly 1 time
+        267217 (20.82%) aligned >1 times
+98.80% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544506_GSM4753064_COVID_44_46y_male_ICU_Homo_sapiens_RNA-Seq
+14731243 reads; of these:
+  14731243 (100.00%) were paired; of these:
+    1080784 (7.34%) aligned concordantly 0 times
+    12858535 (87.29%) aligned concordantly exactly 1 time
+    791924 (5.38%) aligned concordantly >1 times
+    ----
+    1080784 pairs aligned concordantly 0 times; of these:
+      427492 (39.55%) aligned discordantly 1 time
+    ----
+    653292 pairs aligned 0 times concordantly or discordantly; of these:
+      1306584 mates make up the pairs; of these:
+        376491 (28.81%) aligned 0 times
+        663650 (50.79%) aligned exactly 1 time
+        266443 (20.39%) aligned >1 times
+98.72% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544507_GSM4753065_COVID_45_62y_female_ICU_Homo_sapiens_RNA-Seq
+17447827 reads; of these:
+  17447827 (100.00%) were paired; of these:
+    778893 (4.46%) aligned concordantly 0 times
+    15769681 (90.38%) aligned concordantly exactly 1 time
+    899253 (5.15%) aligned concordantly >1 times
+    ----
+    778893 pairs aligned concordantly 0 times; of these:
+      260480 (33.44%) aligned discordantly 1 time
+    ----
+    518413 pairs aligned 0 times concordantly or discordantly; of these:
+      1036826 mates make up the pairs; of these:
+        375729 (36.24%) aligned 0 times
+        506192 (48.82%) aligned exactly 1 time
+        154905 (14.94%) aligned >1 times
+98.92% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544508_GSM4753065_COVID_45_62y_female_ICU_Homo_sapiens_RNA-Seq
+17165634 reads; of these:
+  17165634 (100.00%) were paired; of these:
+    786901 (4.58%) aligned concordantly 0 times
+    15496342 (90.28%) aligned concordantly exactly 1 time
+    882391 (5.14%) aligned concordantly >1 times
+    ----
+    786901 pairs aligned concordantly 0 times; of these:
+      255355 (32.45%) aligned discordantly 1 time
+    ----
+    531546 pairs aligned 0 times concordantly or discordantly; of these:
+      1063092 mates make up the pairs; of these:
+        394297 (37.09%) aligned 0 times
+        514456 (48.39%) aligned exactly 1 time
+        154339 (14.52%) aligned >1 times
+98.85% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544509_GSM4753066_COVID_46_62y_male_ICU_Homo_sapiens_RNA-Seq
+14267900 reads; of these:
+  14267900 (100.00%) were paired; of these:
+    1286707 (9.02%) aligned concordantly 0 times
+    12070196 (84.60%) aligned concordantly exactly 1 time
+    910997 (6.38%) aligned concordantly >1 times
+    ----
+    1286707 pairs aligned concordantly 0 times; of these:
+      459862 (35.74%) aligned discordantly 1 time
+    ----
+    826845 pairs aligned 0 times concordantly or discordantly; of these:
+      1653690 mates make up the pairs; of these:
+        404244 (24.44%) aligned 0 times
+        848083 (51.28%) aligned exactly 1 time
+        401363 (24.27%) aligned >1 times
+98.58% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544510_GSM4753066_COVID_46_62y_male_ICU_Homo_sapiens_RNA-Seq
+14036255 reads; of these:
+  14036255 (100.00%) were paired; of these:
+    1287961 (9.18%) aligned concordantly 0 times
+    11852324 (84.44%) aligned concordantly exactly 1 time
+    895970 (6.38%) aligned concordantly >1 times
+    ----
+    1287961 pairs aligned concordantly 0 times; of these:
+      451817 (35.08%) aligned discordantly 1 time
+    ----
+    836144 pairs aligned 0 times concordantly or discordantly; of these:
+      1672288 mates make up the pairs; of these:
+        418665 (25.04%) aligned 0 times
+        853571 (51.04%) aligned exactly 1 time
+        400052 (23.92%) aligned >1 times
+98.51% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544511_GSM4753067_COVID_47_78y_male_ICU_Homo_sapiens_RNA-Seq
+16372458 reads; of these:
+  16372458 (100.00%) were paired; of these:
+    1412672 (8.63%) aligned concordantly 0 times
+    14150474 (86.43%) aligned concordantly exactly 1 time
+    809312 (4.94%) aligned concordantly >1 times
+    ----
+    1412672 pairs aligned concordantly 0 times; of these:
+      593892 (42.04%) aligned discordantly 1 time
+    ----
+    818780 pairs aligned 0 times concordantly or discordantly; of these:
+      1637560 mates make up the pairs; of these:
+        440488 (26.90%) aligned 0 times
+        839891 (51.29%) aligned exactly 1 time
+        357181 (21.81%) aligned >1 times
+98.65% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544512_GSM4753067_COVID_47_78y_male_ICU_Homo_sapiens_RNA-Seq
+16115004 reads; of these:
+  16115004 (100.00%) were paired; of these:
+    1413589 (8.77%) aligned concordantly 0 times
+    13905369 (86.29%) aligned concordantly exactly 1 time
+    796046 (4.94%) aligned concordantly >1 times
+    ----
+    1413589 pairs aligned concordantly 0 times; of these:
+      583676 (41.29%) aligned discordantly 1 time
+    ----
+    829913 pairs aligned 0 times concordantly or discordantly; of these:
+      1659826 mates make up the pairs; of these:
+        457403 (27.56%) aligned 0 times
+        845963 (50.97%) aligned exactly 1 time
+        356460 (21.48%) aligned >1 times
+98.58% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544513_GSM4753068_COVID_48_72y_female_ICU_Homo_sapiens_RNA-Seq
+14455901 reads; of these:
+  14455901 (100.00%) were paired; of these:
+    1162422 (8.04%) aligned concordantly 0 times
+    12017251 (83.13%) aligned concordantly exactly 1 time
+    1276228 (8.83%) aligned concordantly >1 times
+    ----
+    1162422 pairs aligned concordantly 0 times; of these:
+      364748 (31.38%) aligned discordantly 1 time
+    ----
+    797674 pairs aligned 0 times concordantly or discordantly; of these:
+      1595348 mates make up the pairs; of these:
+        448088 (28.09%) aligned 0 times
+        776835 (48.69%) aligned exactly 1 time
+        370425 (23.22%) aligned >1 times
+98.45% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544514_GSM4753068_COVID_48_72y_female_ICU_Homo_sapiens_RNA-Seq
+14213623 reads; of these:
+  14213623 (100.00%) were paired; of these:
+    1165373 (8.20%) aligned concordantly 0 times
+    11831558 (83.24%) aligned concordantly exactly 1 time
+    1216692 (8.56%) aligned concordantly >1 times
+    ----
+    1165373 pairs aligned concordantly 0 times; of these:
+      360104 (30.90%) aligned discordantly 1 time
+    ----
+    805269 pairs aligned 0 times concordantly or discordantly; of these:
+      1610538 mates make up the pairs; of these:
+        461471 (28.65%) aligned 0 times
+        782295 (48.57%) aligned exactly 1 time
+        366772 (22.77%) aligned >1 times
+98.38% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544516_GSM4753069_COVID_49_73y_male_ICU_Homo_sapiens_RNA-Seq
+13129430 reads; of these:
+  13129430 (100.00%) were paired; of these:
+    1235760 (9.41%) aligned concordantly 0 times
+    10949506 (83.40%) aligned concordantly exactly 1 time
+    944164 (7.19%) aligned concordantly >1 times
+    ----
+    1235760 pairs aligned concordantly 0 times; of these:
+      377733 (30.57%) aligned discordantly 1 time
+    ----
+    858027 pairs aligned 0 times concordantly or discordantly; of these:
+      1716054 mates make up the pairs; of these:
+        504614 (29.41%) aligned 0 times
+        836192 (48.73%) aligned exactly 1 time
+        375248 (21.87%) aligned >1 times
+98.08% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544517_GSM4753070_COVID_50_37y_male_ICU_Homo_sapiens_RNA-Seq
+7528766 reads; of these:
+  7528766 (100.00%) were paired; of these:
+    430709 (5.72%) aligned concordantly 0 times
+    6231962 (82.78%) aligned concordantly exactly 1 time
+    866095 (11.50%) aligned concordantly >1 times
+    ----
+    430709 pairs aligned concordantly 0 times; of these:
+      115184 (26.74%) aligned discordantly 1 time
+    ----
+    315525 pairs aligned 0 times concordantly or discordantly; of these:
+      631050 mates make up the pairs; of these:
+        171769 (27.22%) aligned 0 times
+        309442 (49.04%) aligned exactly 1 time
+        149839 (23.74%) aligned >1 times
+98.86% overall alignment rate
+[bam_sort_core] merging from 8 files...
+Processing sample: SRR12544518_GSM4753070_COVID_50_37y_male_ICU_Homo_sapiens_RNA-Seq
+7410729 reads; of these:
+  7410729 (100.00%) were paired; of these:
+    437172 (5.90%) aligned concordantly 0 times
+    6057732 (81.74%) aligned concordantly exactly 1 time
+    915825 (12.36%) aligned concordantly >1 times
+    ----
+    437172 pairs aligned concordantly 0 times; of these:
+      112505 (25.73%) aligned discordantly 1 time
+    ----
+    324667 pairs aligned 0 times concordantly or discordantly; of these:
+      649334 mates make up the pairs; of these:
+        181419 (27.94%) aligned 0 times
+        313242 (48.24%) aligned exactly 1 time
+        154673 (23.82%) aligned >1 times
+98.78% overall alignment rate
+[bam_sort_core] merging from 8 files...
+Processing sample: SRR12544520_GSM4753071_COVID_51_58y_female_NonICU_Homo_sapiens_RNA-Seq
+19524691 reads; of these:
+  19524691 (100.00%) were paired; of these:
+    1701231 (8.71%) aligned concordantly 0 times
+    16525561 (84.64%) aligned concordantly exactly 1 time
+    1297899 (6.65%) aligned concordantly >1 times
+    ----
+    1701231 pairs aligned concordantly 0 times; of these:
+      605229 (35.58%) aligned discordantly 1 time
+    ----
+    1096002 pairs aligned 0 times concordantly or discordantly; of these:
+      2192004 mates make up the pairs; of these:
+        602083 (27.47%) aligned 0 times
+        1091818 (49.81%) aligned exactly 1 time
+        498103 (22.72%) aligned >1 times
+98.46% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544521_GSM4753072_COVID_52_71y_male_NonICU_Homo_sapiens_RNA-Seq
+8005392 reads; of these:
+  8005392 (100.00%) were paired; of these:
+    669805 (8.37%) aligned concordantly 0 times
+    6979926 (87.19%) aligned concordantly exactly 1 time
+    355661 (4.44%) aligned concordantly >1 times
+    ----
+    669805 pairs aligned concordantly 0 times; of these:
+      291826 (43.57%) aligned discordantly 1 time
+    ----
+    377979 pairs aligned 0 times concordantly or discordantly; of these:
+      755958 mates make up the pairs; of these:
+        210756 (27.88%) aligned 0 times
+        397093 (52.53%) aligned exactly 1 time
+        148109 (19.59%) aligned >1 times
+98.68% overall alignment rate
+[bam_sort_core] merging from 8 files...
+Processing sample: SRR12544525_GSM4753074_COVID_55_62y_female_ICU_Homo_sapiens_RNA-Seq
+15482844 reads; of these:
+  15482844 (100.00%) were paired; of these:
+    790769 (5.11%) aligned concordantly 0 times
+    13944826 (90.07%) aligned concordantly exactly 1 time
+    747249 (4.83%) aligned concordantly >1 times
+    ----
+    790769 pairs aligned concordantly 0 times; of these:
+      264699 (33.47%) aligned discordantly 1 time
+    ----
+    526070 pairs aligned 0 times concordantly or discordantly; of these:
+      1052140 mates make up the pairs; of these:
+        383000 (36.40%) aligned 0 times
+        509587 (48.43%) aligned exactly 1 time
+        159553 (15.16%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544526_GSM4753074_COVID_55_62y_female_ICU_Homo_sapiens_RNA-Seq
+15240092 reads; of these:
+  15240092 (100.00%) were paired; of these:
+    800463 (5.25%) aligned concordantly 0 times
+    13707130 (89.94%) aligned concordantly exactly 1 time
+    732499 (4.81%) aligned concordantly >1 times
+    ----
+    800463 pairs aligned concordantly 0 times; of these:
+      261655 (32.69%) aligned discordantly 1 time
+    ----
+    538808 pairs aligned 0 times concordantly or discordantly; of these:
+      1077616 mates make up the pairs; of these:
+        399459 (37.07%) aligned 0 times
+        518932 (48.16%) aligned exactly 1 time
+        159225 (14.78%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544527_GSM4753123_NONCOVID_03_65y_male_ICU_Homo_sapiens_RNA-Seq
+17015618 reads; of these:
+  17015618 (100.00%) were paired; of these:
+    474917 (2.79%) aligned concordantly 0 times
+    15374877 (90.36%) aligned concordantly exactly 1 time
+    1165824 (6.85%) aligned concordantly >1 times
+    ----
+    474917 pairs aligned concordantly 0 times; of these:
+      61590 (12.97%) aligned discordantly 1 time
+    ----
+    413327 pairs aligned 0 times concordantly or discordantly; of these:
+      826654 mates make up the pairs; of these:
+        372583 (45.07%) aligned 0 times
+        360833 (43.65%) aligned exactly 1 time
+        93238 (11.28%) aligned >1 times
+98.91% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544529_GSM4753124_NONCOVID_04_90y_male_NonICU_Homo_sapiens_RNA-Seq
+19670158 reads; of these:
+  19670158 (100.00%) were paired; of these:
+    540727 (2.75%) aligned concordantly 0 times
+    18013312 (91.58%) aligned concordantly exactly 1 time
+    1116119 (5.67%) aligned concordantly >1 times
+    ----
+    540727 pairs aligned concordantly 0 times; of these:
+      70681 (13.07%) aligned discordantly 1 time
+    ----
+    470046 pairs aligned 0 times concordantly or discordantly; of these:
+      940092 mates make up the pairs; of these:
+        406147 (43.20%) aligned 0 times
+        420593 (44.74%) aligned exactly 1 time
+        113352 (12.06%) aligned >1 times
+98.97% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544530_GSM4753124_NONCOVID_04_90y_male_NonICU_Homo_sapiens_RNA-Seq
+19410639 reads; of these:
+  19410639 (100.00%) were paired; of these:
+    558373 (2.88%) aligned concordantly 0 times
+    17753942 (91.47%) aligned concordantly exactly 1 time
+    1098324 (5.66%) aligned concordantly >1 times
+    ----
+    558373 pairs aligned concordantly 0 times; of these:
+      69393 (12.43%) aligned discordantly 1 time
+    ----
+    488980 pairs aligned 0 times concordantly or discordantly; of these:
+      977960 mates make up the pairs; of these:
+        428164 (43.78%) aligned 0 times
+        434452 (44.42%) aligned exactly 1 time
+        115344 (11.79%) aligned >1 times
+98.90% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544531_GSM4753125_NONCOVID_05_83y_female_NonICU_Homo_sapiens_RNA-Seq
+15977647 reads; of these:
+  15977647 (100.00%) were paired; of these:
+    483725 (3.03%) aligned concordantly 0 times
+    14268671 (89.30%) aligned concordantly exactly 1 time
+    1225251 (7.67%) aligned concordantly >1 times
+    ----
+    483725 pairs aligned concordantly 0 times; of these:
+      62744 (12.97%) aligned discordantly 1 time
+    ----
+    420981 pairs aligned 0 times concordantly or discordantly; of these:
+      841962 mates make up the pairs; of these:
+        368830 (43.81%) aligned 0 times
+        358324 (42.56%) aligned exactly 1 time
+        114808 (13.64%) aligned >1 times
+98.85% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544533_GSM4753126_NONCOVID_06_75y_female_ICU_Homo_sapiens_RNA-Seq
+21127626 reads; of these:
+  21127626 (100.00%) were paired; of these:
+    643482 (3.05%) aligned concordantly 0 times
+    18602029 (88.05%) aligned concordantly exactly 1 time
+    1882115 (8.91%) aligned concordantly >1 times
+    ----
+    643482 pairs aligned concordantly 0 times; of these:
+      82115 (12.76%) aligned discordantly 1 time
+    ----
+    561367 pairs aligned 0 times concordantly or discordantly; of these:
+      1122734 mates make up the pairs; of these:
+        521921 (46.49%) aligned 0 times
+        465464 (41.46%) aligned exactly 1 time
+        135349 (12.06%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 21 files...
+Processing sample: SRR12544534_GSM4753126_NONCOVID_06_75y_female_ICU_Homo_sapiens_RNA-Seq
+20820725 reads; of these:
+  20820725 (100.00%) were paired; of these:
+    661004 (3.17%) aligned concordantly 0 times
+    18301594 (87.90%) aligned concordantly exactly 1 time
+    1858127 (8.92%) aligned concordantly >1 times
+    ----
+    661004 pairs aligned concordantly 0 times; of these:
+      81493 (12.33%) aligned discordantly 1 time
+    ----
+    579511 pairs aligned 0 times concordantly or discordantly; of these:
+      1159022 mates make up the pairs; of these:
+        544514 (46.98%) aligned 0 times
+        476223 (41.09%) aligned exactly 1 time
+        138285 (11.93%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 21 files...
+Processing sample: SRR12544535_GSM4753127_NONCOVID_07_50y_male_ICU_Homo_sapiens_RNA-Seq
+17425041 reads; of these:
+  17425041 (100.00%) were paired; of these:
+    441285 (2.53%) aligned concordantly 0 times
+    15769671 (90.50%) aligned concordantly exactly 1 time
+    1214085 (6.97%) aligned concordantly >1 times
+    ----
+    441285 pairs aligned concordantly 0 times; of these:
+      45580 (10.33%) aligned discordantly 1 time
+    ----
+    395705 pairs aligned 0 times concordantly or discordantly; of these:
+      791410 mates make up the pairs; of these:
+        341729 (43.18%) aligned 0 times
+        344640 (43.55%) aligned exactly 1 time
+        105041 (13.27%) aligned >1 times
+99.02% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544536_GSM4753127_NONCOVID_07_50y_male_ICU_Homo_sapiens_RNA-Seq
+17150863 reads; of these:
+  17150863 (100.00%) were paired; of these:
+    457857 (2.67%) aligned concordantly 0 times
+    15505862 (90.41%) aligned concordantly exactly 1 time
+    1187144 (6.92%) aligned concordantly >1 times
+    ----
+    457857 pairs aligned concordantly 0 times; of these:
+      44354 (9.69%) aligned discordantly 1 time
+    ----
+    413503 pairs aligned 0 times concordantly or discordantly; of these:
+      827006 mates make up the pairs; of these:
+        361212 (43.68%) aligned 0 times
+        359175 (43.43%) aligned exactly 1 time
+        106619 (12.89%) aligned >1 times
+98.95% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544537_GSM4753128_NONCOVID_08_53y_female_ICU_Homo_sapiens_RNA-Seq
+17882639 reads; of these:
+  17882639 (100.00%) were paired; of these:
+    454012 (2.54%) aligned concordantly 0 times
+    16133844 (90.22%) aligned concordantly exactly 1 time
+    1294783 (7.24%) aligned concordantly >1 times
+    ----
+    454012 pairs aligned concordantly 0 times; of these:
+      49919 (11.00%) aligned discordantly 1 time
+    ----
+    404093 pairs aligned 0 times concordantly or discordantly; of these:
+      808186 mates make up the pairs; of these:
+        363752 (45.01%) aligned 0 times
+        345634 (42.77%) aligned exactly 1 time
+        98800 (12.22%) aligned >1 times
+98.98% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544538_GSM4753128_NONCOVID_08_53y_female_ICU_Homo_sapiens_RNA-Seq
+17598906 reads; of these:
+  17598906 (100.00%) were paired; of these:
+    469969 (2.67%) aligned concordantly 0 times
+    15865832 (90.15%) aligned concordantly exactly 1 time
+    1263105 (7.18%) aligned concordantly >1 times
+    ----
+    469969 pairs aligned concordantly 0 times; of these:
+      49775 (10.59%) aligned discordantly 1 time
+    ----
+    420194 pairs aligned 0 times concordantly or discordantly; of these:
+      840388 mates make up the pairs; of these:
+        382031 (45.46%) aligned 0 times
+        359476 (42.78%) aligned exactly 1 time
+        98881 (11.77%) aligned >1 times
+98.91% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544539_GSM4753129_NONCOVID_09_49y_female_NonICU_Homo_sapiens_RNA-Seq
+18496859 reads; of these:
+  18496859 (100.00%) were paired; of these:
+    465759 (2.52%) aligned concordantly 0 times
+    16602052 (89.76%) aligned concordantly exactly 1 time
+    1429048 (7.73%) aligned concordantly >1 times
+    ----
+    465759 pairs aligned concordantly 0 times; of these:
+      56887 (12.21%) aligned discordantly 1 time
+    ----
+    408872 pairs aligned 0 times concordantly or discordantly; of these:
+      817744 mates make up the pairs; of these:
+        323108 (39.51%) aligned 0 times
+        365208 (44.66%) aligned exactly 1 time
+        129428 (15.83%) aligned >1 times
+99.13% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544540_GSM4753129_NONCOVID_09_49y_female_NonICU_Homo_sapiens_RNA-Seq
+18209202 reads; of these:
+  18209202 (100.00%) were paired; of these:
+    482433 (2.65%) aligned concordantly 0 times
+    16309612 (89.57%) aligned concordantly exactly 1 time
+    1417157 (7.78%) aligned concordantly >1 times
+    ----
+    482433 pairs aligned concordantly 0 times; of these:
+      55507 (11.51%) aligned discordantly 1 time
+    ----
+    426926 pairs aligned 0 times concordantly or discordantly; of these:
+      853852 mates make up the pairs; of these:
+        343592 (40.24%) aligned 0 times
+        378966 (44.38%) aligned exactly 1 time
+        131294 (15.38%) aligned >1 times
+99.06% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544541_GSM4753130_NONCOVID_10_67y_male_ICU_Homo_sapiens_RNA-Seq
+19202950 reads; of these:
+  19202950 (100.00%) were paired; of these:
+    466734 (2.43%) aligned concordantly 0 times
+    17341887 (90.31%) aligned concordantly exactly 1 time
+    1394329 (7.26%) aligned concordantly >1 times
+    ----
+    466734 pairs aligned concordantly 0 times; of these:
+      60423 (12.95%) aligned discordantly 1 time
+    ----
+    406311 pairs aligned 0 times concordantly or discordantly; of these:
+      812622 mates make up the pairs; of these:
+        357528 (44.00%) aligned 0 times
+        354152 (43.58%) aligned exactly 1 time
+        100942 (12.42%) aligned >1 times
+99.07% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544543_GSM4753131_NONCOVID_11_58y_female_NonICU_Homo_sapiens_RNA-Seq
+20582751 reads; of these:
+  20582751 (100.00%) were paired; of these:
+    574557 (2.79%) aligned concordantly 0 times
+    18666065 (90.69%) aligned concordantly exactly 1 time
+    1342129 (6.52%) aligned concordantly >1 times
+    ----
+    574557 pairs aligned concordantly 0 times; of these:
+      79435 (13.83%) aligned discordantly 1 time
+    ----
+    495122 pairs aligned 0 times concordantly or discordantly; of these:
+      990244 mates make up the pairs; of these:
+        424678 (42.89%) aligned 0 times
+        440971 (44.53%) aligned exactly 1 time
+        124595 (12.58%) aligned >1 times
+98.97% overall alignment rate
+[bam_sort_core] merging from 20 files...
+Processing sample: SRR12544544_GSM4753131_NONCOVID_11_58y_female_NonICU_Homo_sapiens_RNA-Seq
+20299674 reads; of these:
+  20299674 (100.00%) were paired; of these:
+    593975 (2.93%) aligned concordantly 0 times
+    18376542 (90.53%) aligned concordantly exactly 1 time
+    1329157 (6.55%) aligned concordantly >1 times
+    ----
+    593975 pairs aligned concordantly 0 times; of these:
+      77249 (13.01%) aligned discordantly 1 time
+    ----
+    516726 pairs aligned 0 times concordantly or discordantly; of these:
+      1033452 mates make up the pairs; of these:
+        452245 (43.76%) aligned 0 times
+        457187 (44.24%) aligned exactly 1 time
+        124020 (12.00%) aligned >1 times
+98.89% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544545_GSM4753132_NONCOVID_12_82y_male_ICU_Homo_sapiens_RNA-Seq
+17971098 reads; of these:
+  17971098 (100.00%) were paired; of these:
+    515311 (2.87%) aligned concordantly 0 times
+    16463288 (91.61%) aligned concordantly exactly 1 time
+    992499 (5.52%) aligned concordantly >1 times
+    ----
+    515311 pairs aligned concordantly 0 times; of these:
+      75589 (14.67%) aligned discordantly 1 time
+    ----
+    439722 pairs aligned 0 times concordantly or discordantly; of these:
+      879444 mates make up the pairs; of these:
+        345603 (39.30%) aligned 0 times
+        405139 (46.07%) aligned exactly 1 time
+        128702 (14.63%) aligned >1 times
+99.04% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544546_GSM4753132_NONCOVID_12_82y_male_ICU_Homo_sapiens_RNA-Seq
+17706379 reads; of these:
+  17706379 (100.00%) were paired; of these:
+    532328 (3.01%) aligned concordantly 0 times
+    16207487 (91.53%) aligned concordantly exactly 1 time
+    966564 (5.46%) aligned concordantly >1 times
+    ----
+    532328 pairs aligned concordantly 0 times; of these:
+      75210 (14.13%) aligned discordantly 1 time
+    ----
+    457118 pairs aligned 0 times concordantly or discordantly; of these:
+      914236 mates make up the pairs; of these:
+        364591 (39.88%) aligned 0 times
+        419224 (45.86%) aligned exactly 1 time
+        130421 (14.27%) aligned >1 times
+98.97% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544547_GSM4753133_NONCOVID_13_65y_male_ICU_Homo_sapiens_RNA-Seq
+19206773 reads; of these:
+  19206773 (100.00%) were paired; of these:
+    544355 (2.83%) aligned concordantly 0 times
+    17478900 (91.00%) aligned concordantly exactly 1 time
+    1183518 (6.16%) aligned concordantly >1 times
+    ----
+    544355 pairs aligned concordantly 0 times; of these:
+      75625 (13.89%) aligned discordantly 1 time
+    ----
+    468730 pairs aligned 0 times concordantly or discordantly; of these:
+      937460 mates make up the pairs; of these:
+        400764 (42.75%) aligned 0 times
+        417411 (44.53%) aligned exactly 1 time
+        119285 (12.72%) aligned >1 times
+98.96% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544548_GSM4753133_NONCOVID_13_65y_male_ICU_Homo_sapiens_RNA-Seq
+18882193 reads; of these:
+  18882193 (100.00%) were paired; of these:
+    560740 (2.97%) aligned concordantly 0 times
+    17163778 (90.90%) aligned concordantly exactly 1 time
+    1157675 (6.13%) aligned concordantly >1 times
+    ----
+    560740 pairs aligned concordantly 0 times; of these:
+      74222 (13.24%) aligned discordantly 1 time
+    ----
+    486518 pairs aligned 0 times concordantly or discordantly; of these:
+      973036 mates make up the pairs; of these:
+        421210 (43.29%) aligned 0 times
+        430296 (44.22%) aligned exactly 1 time
+        121530 (12.49%) aligned >1 times
+98.88% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544549_GSM4753134_NONCOVID_14_75y_female_ICU_Homo_sapiens_RNA-Seq
+19817808 reads; of these:
+  19817808 (100.00%) were paired; of these:
+    567907 (2.87%) aligned concordantly 0 times
+    18089917 (91.28%) aligned concordantly exactly 1 time
+    1159984 (5.85%) aligned concordantly >1 times
+    ----
+    567907 pairs aligned concordantly 0 times; of these:
+      86001 (15.14%) aligned discordantly 1 time
+    ----
+    481906 pairs aligned 0 times concordantly or discordantly; of these:
+      963812 mates make up the pairs; of these:
+        413244 (42.88%) aligned 0 times
+        430660 (44.68%) aligned exactly 1 time
+        119908 (12.44%) aligned >1 times
+98.96% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544550_GSM4753134_NONCOVID_14_75y_female_ICU_Homo_sapiens_RNA-Seq
+19552035 reads; of these:
+  19552035 (100.00%) were paired; of these:
+    585178 (2.99%) aligned concordantly 0 times
+    17865216 (91.37%) aligned concordantly exactly 1 time
+    1101641 (5.63%) aligned concordantly >1 times
+    ----
+    585178 pairs aligned concordantly 0 times; of these:
+      84051 (14.36%) aligned discordantly 1 time
+    ----
+    501127 pairs aligned 0 times concordantly or discordantly; of these:
+      1002254 mates make up the pairs; of these:
+        434485 (43.35%) aligned 0 times
+        448292 (44.73%) aligned exactly 1 time
+        119477 (11.92%) aligned >1 times
+98.89% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544551_GSM4753135_NONCOVID_15_83y_unknown_ICU_Homo_sapiens_RNA-Seq
+16868752 reads; of these:
+  16868752 (100.00%) were paired; of these:
+    468281 (2.78%) aligned concordantly 0 times
+    15133269 (89.71%) aligned concordantly exactly 1 time
+    1267202 (7.51%) aligned concordantly >1 times
+    ----
+    468281 pairs aligned concordantly 0 times; of these:
+      62692 (13.39%) aligned discordantly 1 time
+    ----
+    405589 pairs aligned 0 times concordantly or discordantly; of these:
+      811178 mates make up the pairs; of these:
+        367143 (45.26%) aligned 0 times
+        349128 (43.04%) aligned exactly 1 time
+        94907 (11.70%) aligned >1 times
+98.91% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544552_GSM4753135_NONCOVID_15_83y_unknown_ICU_Homo_sapiens_RNA-Seq
+16588751 reads; of these:
+  16588751 (100.00%) were paired; of these:
+    480543 (2.90%) aligned concordantly 0 times
+    14869210 (89.63%) aligned concordantly exactly 1 time
+    1238998 (7.47%) aligned concordantly >1 times
+    ----
+    480543 pairs aligned concordantly 0 times; of these:
+      61903 (12.88%) aligned discordantly 1 time
+    ----
+    418640 pairs aligned 0 times concordantly or discordantly; of these:
+      837280 mates make up the pairs; of these:
+        383138 (45.76%) aligned 0 times
+        359345 (42.92%) aligned exactly 1 time
+        94797 (11.32%) aligned >1 times
+98.85% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544553_GSM4753136_NONCOVID_16_40y_female_ICU_Homo_sapiens_RNA-Seq
+19287597 reads; of these:
+  19287597 (100.00%) were paired; of these:
+    447540 (2.32%) aligned concordantly 0 times
+    17519298 (90.83%) aligned concordantly exactly 1 time
+    1320759 (6.85%) aligned concordantly >1 times
+    ----
+    447540 pairs aligned concordantly 0 times; of these:
+      55208 (12.34%) aligned discordantly 1 time
+    ----
+    392332 pairs aligned 0 times concordantly or discordantly; of these:
+      784664 mates make up the pairs; of these:
+        346734 (44.19%) aligned 0 times
+        339553 (43.27%) aligned exactly 1 time
+        98377 (12.54%) aligned >1 times
+99.10% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544554_GSM4753136_NONCOVID_16_40y_female_ICU_Homo_sapiens_RNA-Seq
+18964081 reads; of these:
+  18964081 (100.00%) were paired; of these:
+    465010 (2.45%) aligned concordantly 0 times
+    17215333 (90.78%) aligned concordantly exactly 1 time
+    1283738 (6.77%) aligned concordantly >1 times
+    ----
+    465010 pairs aligned concordantly 0 times; of these:
+      54347 (11.69%) aligned discordantly 1 time
+    ----
+    410663 pairs aligned 0 times concordantly or discordantly; of these:
+      821326 mates make up the pairs; of these:
+        366441 (44.62%) aligned 0 times
+        355347 (43.27%) aligned exactly 1 time
+        99538 (12.12%) aligned >1 times
+99.03% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544555_GSM4753137_NONCOVID_17_84y_female_ICU_Homo_sapiens_RNA-Seq
+18690578 reads; of these:
+  18690578 (100.00%) were paired; of these:
+    497371 (2.66%) aligned concordantly 0 times
+    17026772 (91.10%) aligned concordantly exactly 1 time
+    1166435 (6.24%) aligned concordantly >1 times
+    ----
+    497371 pairs aligned concordantly 0 times; of these:
+      47908 (9.63%) aligned discordantly 1 time
+    ----
+    449463 pairs aligned 0 times concordantly or discordantly; of these:
+      898926 mates make up the pairs; of these:
+        388604 (43.23%) aligned 0 times
+        394972 (43.94%) aligned exactly 1 time
+        115350 (12.83%) aligned >1 times
+98.96% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544556_GSM4753137_NONCOVID_17_84y_female_ICU_Homo_sapiens_RNA-Seq
+18387098 reads; of these:
+  18387098 (100.00%) were paired; of these:
+    514204 (2.80%) aligned concordantly 0 times
+    16723426 (90.95%) aligned concordantly exactly 1 time
+    1149468 (6.25%) aligned concordantly >1 times
+    ----
+    514204 pairs aligned concordantly 0 times; of these:
+      47459 (9.23%) aligned discordantly 1 time
+    ----
+    466745 pairs aligned 0 times concordantly or discordantly; of these:
+      933490 mates make up the pairs; of these:
+        408217 (43.73%) aligned 0 times
+        407283 (43.63%) aligned exactly 1 time
+        117990 (12.64%) aligned >1 times
+98.89% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544557_GSM4753138_NONCOVID_18_88y_male_ICU_Homo_sapiens_RNA-Seq
+19630321 reads; of these:
+  19630321 (100.00%) were paired; of these:
+    396347 (2.02%) aligned concordantly 0 times
+    17897434 (91.17%) aligned concordantly exactly 1 time
+    1336540 (6.81%) aligned concordantly >1 times
+    ----
+    396347 pairs aligned concordantly 0 times; of these:
+      35776 (9.03%) aligned discordantly 1 time
+    ----
+    360571 pairs aligned 0 times concordantly or discordantly; of these:
+      721142 mates make up the pairs; of these:
+        335968 (46.59%) aligned 0 times
+        304498 (42.22%) aligned exactly 1 time
+        80676 (11.19%) aligned >1 times
+99.14% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544558_GSM4753138_NONCOVID_18_88y_male_ICU_Homo_sapiens_RNA-Seq
+19343210 reads; of these:
+  19343210 (100.00%) were paired; of these:
+    416934 (2.16%) aligned concordantly 0 times
+    17582186 (90.90%) aligned concordantly exactly 1 time
+    1344090 (6.95%) aligned concordantly >1 times
+    ----
+    416934 pairs aligned concordantly 0 times; of these:
+      35209 (8.44%) aligned discordantly 1 time
+    ----
+    381725 pairs aligned 0 times concordantly or discordantly; of these:
+      763450 mates make up the pairs; of these:
+        359070 (47.03%) aligned 0 times
+        323499 (42.37%) aligned exactly 1 time
+        80881 (10.59%) aligned >1 times
+99.07% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544559_GSM4753139_NONCOVID_19_66y_female_ICU_Homo_sapiens_RNA-Seq
+20300382 reads; of these:
+  20300382 (100.00%) were paired; of these:
+    416999 (2.05%) aligned concordantly 0 times
+    18601718 (91.63%) aligned concordantly exactly 1 time
+    1281665 (6.31%) aligned concordantly >1 times
+    ----
+    416999 pairs aligned concordantly 0 times; of these:
+      47994 (11.51%) aligned discordantly 1 time
+    ----
+    369005 pairs aligned 0 times concordantly or discordantly; of these:
+      738010 mates make up the pairs; of these:
+        335186 (45.42%) aligned 0 times
+        322361 (43.68%) aligned exactly 1 time
+        80463 (10.90%) aligned >1 times
+99.17% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544560_GSM4753139_NONCOVID_19_66y_female_ICU_Homo_sapiens_RNA-Seq
+19972184 reads; of these:
+  19972184 (100.00%) were paired; of these:
+    436108 (2.18%) aligned concordantly 0 times
+    18287392 (91.56%) aligned concordantly exactly 1 time
+    1248684 (6.25%) aligned concordantly >1 times
+    ----
+    436108 pairs aligned concordantly 0 times; of these:
+      46877 (10.75%) aligned discordantly 1 time
+    ----
+    389231 pairs aligned 0 times concordantly or discordantly; of these:
+      778462 mates make up the pairs; of these:
+        358127 (46.00%) aligned 0 times
+        340532 (43.74%) aligned exactly 1 time
+        79803 (10.25%) aligned >1 times
+99.10% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544561_GSM4753140_NONCOVID_20_62y_female_ICU_Homo_sapiens_RNA-Seq
+18512634 reads; of these:
+  18512634 (100.00%) were paired; of these:
+    710048 (3.84%) aligned concordantly 0 times
+    16833274 (90.93%) aligned concordantly exactly 1 time
+    969312 (5.24%) aligned concordantly >1 times
+    ----
+    710048 pairs aligned concordantly 0 times; of these:
+      120949 (17.03%) aligned discordantly 1 time
+    ----
+    589099 pairs aligned 0 times concordantly or discordantly; of these:
+      1178198 mates make up the pairs; of these:
+        482426 (40.95%) aligned 0 times
+        531756 (45.13%) aligned exactly 1 time
+        164016 (13.92%) aligned >1 times
+98.70% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544564_GSM4753141_NONCOVID_21_71y_male_NonICU_Homo_sapiens_RNA-Seq
+14198846 reads; of these:
+  14198846 (100.00%) were paired; of these:
+    603432 (4.25%) aligned concordantly 0 times
+    12535312 (88.28%) aligned concordantly exactly 1 time
+    1060102 (7.47%) aligned concordantly >1 times
+    ----
+    603432 pairs aligned concordantly 0 times; of these:
+      51901 (8.60%) aligned discordantly 1 time
+    ----
+    551531 pairs aligned 0 times concordantly or discordantly; of these:
+      1103062 mates make up the pairs; of these:
+        404251 (36.65%) aligned 0 times
+        473996 (42.97%) aligned exactly 1 time
+        224815 (20.38%) aligned >1 times
+98.58% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544565_GSM4753142_NONCOVID_22_63y_male_NonICU_Homo_sapiens_RNA-Seq
+16495272 reads; of these:
+  16495272 (100.00%) were paired; of these:
+    706022 (4.28%) aligned concordantly 0 times
+    14019654 (84.99%) aligned concordantly exactly 1 time
+    1769596 (10.73%) aligned concordantly >1 times
+    ----
+    706022 pairs aligned concordantly 0 times; of these:
+      78945 (11.18%) aligned discordantly 1 time
+    ----
+    627077 pairs aligned 0 times concordantly or discordantly; of these:
+      1254154 mates make up the pairs; of these:
+        482462 (38.47%) aligned 0 times
+        533929 (42.57%) aligned exactly 1 time
+        237763 (18.96%) aligned >1 times
+98.54% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544566_GSM4753142_NONCOVID_22_63y_male_NonICU_Homo_sapiens_RNA-Seq
+16230967 reads; of these:
+  16230967 (100.00%) were paired; of these:
+    719179 (4.43%) aligned concordantly 0 times
+    13775247 (84.87%) aligned concordantly exactly 1 time
+    1736541 (10.70%) aligned concordantly >1 times
+    ----
+    719179 pairs aligned concordantly 0 times; of these:
+      75903 (10.55%) aligned discordantly 1 time
+    ----
+    643276 pairs aligned 0 times concordantly or discordantly; of these:
+      1286552 mates make up the pairs; of these:
+        497380 (38.66%) aligned 0 times
+        547198 (42.53%) aligned exactly 1 time
+        241974 (18.81%) aligned >1 times
+98.47% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544567_GSM4753143_NONCOVID_23_42y_female_NonICU_Homo_sapiens_RNA-Seq
+17892001 reads; of these:
+  17892001 (100.00%) were paired; of these:
+    1022345 (5.71%) aligned concordantly 0 times
+    15584126 (87.10%) aligned concordantly exactly 1 time
+    1285530 (7.18%) aligned concordantly >1 times
+    ----
+    1022345 pairs aligned concordantly 0 times; of these:
+      184389 (18.04%) aligned discordantly 1 time
+    ----
+    837956 pairs aligned 0 times concordantly or discordantly; of these:
+      1675912 mates make up the pairs; of these:
+        641758 (38.29%) aligned 0 times
+        738496 (44.07%) aligned exactly 1 time
+        295658 (17.64%) aligned >1 times
+98.21% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544569_GSM4753144_NONCOVID_24_32y_female_NonICU_Homo_sapiens_RNA-Seq
+17690292 reads; of these:
+  17690292 (100.00%) were paired; of these:
+    649234 (3.67%) aligned concordantly 0 times
+    15786371 (89.24%) aligned concordantly exactly 1 time
+    1254687 (7.09%) aligned concordantly >1 times
+    ----
+    649234 pairs aligned concordantly 0 times; of these:
+      93495 (14.40%) aligned discordantly 1 time
+    ----
+    555739 pairs aligned 0 times concordantly or discordantly; of these:
+      1111478 mates make up the pairs; of these:
+        459133 (41.31%) aligned 0 times
+        484180 (43.56%) aligned exactly 1 time
+        168165 (15.13%) aligned >1 times
+98.70% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544570_GSM4753144_NONCOVID_24_32y_female_NonICU_Homo_sapiens_RNA-Seq
+17401836 reads; of these:
+  17401836 (100.00%) were paired; of these:
+    662409 (3.81%) aligned concordantly 0 times
+    15512596 (89.14%) aligned concordantly exactly 1 time
+    1226831 (7.05%) aligned concordantly >1 times
+    ----
+    662409 pairs aligned concordantly 0 times; of these:
+      90849 (13.71%) aligned discordantly 1 time
+    ----
+    571560 pairs aligned 0 times concordantly or discordantly; of these:
+      1143120 mates make up the pairs; of these:
+        477721 (41.79%) aligned 0 times
+        497147 (43.49%) aligned exactly 1 time
+        168252 (14.72%) aligned >1 times
+98.63% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544571_GSM4753145_NONCOVID_25_62y_male_NonICU_Homo_sapiens_RNA-Seq
+13754354 reads; of these:
+  13754354 (100.00%) were paired; of these:
+    613740 (4.46%) aligned concordantly 0 times
+    11477013 (83.44%) aligned concordantly exactly 1 time
+    1663601 (12.10%) aligned concordantly >1 times
+    ----
+    613740 pairs aligned concordantly 0 times; of these:
+      57487 (9.37%) aligned discordantly 1 time
+    ----
+    556253 pairs aligned 0 times concordantly or discordantly; of these:
+      1112506 mates make up the pairs; of these:
+        449864 (40.44%) aligned 0 times
+        454169 (40.82%) aligned exactly 1 time
+        208473 (18.74%) aligned >1 times
+98.36% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544572_GSM4753145_NONCOVID_25_62y_male_NonICU_Homo_sapiens_RNA-Seq
+13486435 reads; of these:
+  13486435 (100.00%) were paired; of these:
+    621235 (4.61%) aligned concordantly 0 times
+    11230159 (83.27%) aligned concordantly exactly 1 time
+    1635041 (12.12%) aligned concordantly >1 times
+    ----
+    621235 pairs aligned concordantly 0 times; of these:
+      57445 (9.25%) aligned discordantly 1 time
+    ----
+    563790 pairs aligned 0 times concordantly or discordantly; of these:
+      1127580 mates make up the pairs; of these:
+        460390 (40.83%) aligned 0 times
+        457453 (40.57%) aligned exactly 1 time
+        209737 (18.60%) aligned >1 times
+98.29% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544573_GSM4753146_NONCOVID_26_36y_male_ICU_Homo_sapiens_RNA-Seq
+15096639 reads; of these:
+  15096639 (100.00%) were paired; of these:
+    473859 (3.14%) aligned concordantly 0 times
+    13339977 (88.36%) aligned concordantly exactly 1 time
+    1282803 (8.50%) aligned concordantly >1 times
+    ----
+    473859 pairs aligned concordantly 0 times; of these:
+      59865 (12.63%) aligned discordantly 1 time
+    ----
+    413994 pairs aligned 0 times concordantly or discordantly; of these:
+      827988 mates make up the pairs; of these:
+        328729 (39.70%) aligned 0 times
+        363196 (43.86%) aligned exactly 1 time
+        136063 (16.43%) aligned >1 times
+98.91% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544574_GSM4753146_NONCOVID_26_36y_male_ICU_Homo_sapiens_RNA-Seq
+14846209 reads; of these:
+  14846209 (100.00%) were paired; of these:
+    486321 (3.28%) aligned concordantly 0 times
+    13107855 (88.29%) aligned concordantly exactly 1 time
+    1252033 (8.43%) aligned concordantly >1 times
+    ----
+    486321 pairs aligned concordantly 0 times; of these:
+      58908 (12.11%) aligned discordantly 1 time
+    ----
+    427413 pairs aligned 0 times concordantly or discordantly; of these:
+      854826 mates make up the pairs; of these:
+        344449 (40.29%) aligned 0 times
+        371698 (43.48%) aligned exactly 1 time
+        138679 (16.22%) aligned >1 times
+98.84% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544575_GSM4753075_COVID_56_33y_female_NonICU_Homo_sapiens_RNA-Seq
+15627500 reads; of these:
+  15627500 (100.00%) were paired; of these:
+    1335653 (8.55%) aligned concordantly 0 times
+    13485296 (86.29%) aligned concordantly exactly 1 time
+    806551 (5.16%) aligned concordantly >1 times
+    ----
+    1335653 pairs aligned concordantly 0 times; of these:
+      552161 (41.34%) aligned discordantly 1 time
+    ----
+    783492 pairs aligned 0 times concordantly or discordantly; of these:
+      1566984 mates make up the pairs; of these:
+        476268 (30.39%) aligned 0 times
+        781325 (49.86%) aligned exactly 1 time
+        309391 (19.74%) aligned >1 times
+98.48% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544576_GSM4753075_COVID_56_33y_female_NonICU_Homo_sapiens_RNA-Seq
+15372427 reads; of these:
+  15372427 (100.00%) were paired; of these:
+    1335107 (8.69%) aligned concordantly 0 times
+    13247780 (86.18%) aligned concordantly exactly 1 time
+    789540 (5.14%) aligned concordantly >1 times
+    ----
+    1335107 pairs aligned concordantly 0 times; of these:
+      543082 (40.68%) aligned discordantly 1 time
+    ----
+    792025 pairs aligned 0 times concordantly or discordantly; of these:
+      1584050 mates make up the pairs; of these:
+        490065 (30.94%) aligned 0 times
+        786191 (49.63%) aligned exactly 1 time
+        307794 (19.43%) aligned >1 times
+98.41% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544577_GSM4753076_COVID_57_30y_female_NonICU_Homo_sapiens_RNA-Seq
+17314754 reads; of these:
+  17314754 (100.00%) were paired; of these:
+    747757 (4.32%) aligned concordantly 0 times
+    15494392 (89.49%) aligned concordantly exactly 1 time
+    1072605 (6.19%) aligned concordantly >1 times
+    ----
+    747757 pairs aligned concordantly 0 times; of these:
+      160618 (21.48%) aligned discordantly 1 time
+    ----
+    587139 pairs aligned 0 times concordantly or discordantly; of these:
+      1174278 mates make up the pairs; of these:
+        470853 (40.10%) aligned 0 times
+        514537 (43.82%) aligned exactly 1 time
+        188888 (16.09%) aligned >1 times
+98.64% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544578_GSM4753076_COVID_57_30y_female_NonICU_Homo_sapiens_RNA-Seq
+17046737 reads; of these:
+  17046737 (100.00%) were paired; of these:
+    762477 (4.47%) aligned concordantly 0 times
+    15225432 (89.32%) aligned concordantly exactly 1 time
+    1058828 (6.21%) aligned concordantly >1 times
+    ----
+    762477 pairs aligned concordantly 0 times; of these:
+      159027 (20.86%) aligned discordantly 1 time
+    ----
+    603450 pairs aligned 0 times concordantly or discordantly; of these:
+      1206900 mates make up the pairs; of these:
+        489445 (40.55%) aligned 0 times
+        527739 (43.73%) aligned exactly 1 time
+        189716 (15.72%) aligned >1 times
+98.56% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544579_GSM4753077_COVID_58_62y_male_NonICU_Homo_sapiens_RNA-Seq
+14384818 reads; of these:
+  14384818 (100.00%) were paired; of these:
+    574894 (4.00%) aligned concordantly 0 times
+    12396879 (86.18%) aligned concordantly exactly 1 time
+    1413045 (9.82%) aligned concordantly >1 times
+    ----
+    574894 pairs aligned concordantly 0 times; of these:
+      83220 (14.48%) aligned discordantly 1 time
+    ----
+    491674 pairs aligned 0 times concordantly or discordantly; of these:
+      983348 mates make up the pairs; of these:
+        400083 (40.69%) aligned 0 times
+        418145 (42.52%) aligned exactly 1 time
+        165120 (16.79%) aligned >1 times
+98.61% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544580_GSM4753077_COVID_58_62y_male_NonICU_Homo_sapiens_RNA-Seq
+14113265 reads; of these:
+  14113265 (100.00%) were paired; of these:
+    583218 (4.13%) aligned concordantly 0 times
+    12133409 (85.97%) aligned concordantly exactly 1 time
+    1396638 (9.90%) aligned concordantly >1 times
+    ----
+    583218 pairs aligned concordantly 0 times; of these:
+      82741 (14.19%) aligned discordantly 1 time
+    ----
+    500477 pairs aligned 0 times concordantly or discordantly; of these:
+      1000954 mates make up the pairs; of these:
+        412210 (41.18%) aligned 0 times
+        424521 (42.41%) aligned exactly 1 time
+        164223 (16.41%) aligned >1 times
+98.54% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544581_GSM4753078_COVID_59_55y_male_NonICU_Homo_sapiens_RNA-Seq
+17838010 reads; of these:
+  17838010 (100.00%) were paired; of these:
+    749100 (4.20%) aligned concordantly 0 times
+    16081863 (90.16%) aligned concordantly exactly 1 time
+    1007047 (5.65%) aligned concordantly >1 times
+    ----
+    749100 pairs aligned concordantly 0 times; of these:
+      241621 (32.25%) aligned discordantly 1 time
+    ----
+    507479 pairs aligned 0 times concordantly or discordantly; of these:
+      1014958 mates make up the pairs; of these:
+        353565 (34.84%) aligned 0 times
+        498879 (49.15%) aligned exactly 1 time
+        162514 (16.01%) aligned >1 times
+99.01% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544582_GSM4753078_COVID_59_55y_male_NonICU_Homo_sapiens_RNA-Seq
+17552054 reads; of these:
+  17552054 (100.00%) were paired; of these:
+    760409 (4.33%) aligned concordantly 0 times
+    15824517 (90.16%) aligned concordantly exactly 1 time
+    967128 (5.51%) aligned concordantly >1 times
+    ----
+    760409 pairs aligned concordantly 0 times; of these:
+      237955 (31.29%) aligned discordantly 1 time
+    ----
+    522454 pairs aligned 0 times concordantly or discordantly; of these:
+      1044908 mates make up the pairs; of these:
+        373163 (35.71%) aligned 0 times
+        510096 (48.82%) aligned exactly 1 time
+        161649 (15.47%) aligned >1 times
+98.94% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544583_GSM4753079_COVID_60_49y_male_NonICU_Homo_sapiens_RNA-Seq
+16280825 reads; of these:
+  16280825 (100.00%) were paired; of these:
+    718001 (4.41%) aligned concordantly 0 times
+    14312530 (87.91%) aligned concordantly exactly 1 time
+    1250294 (7.68%) aligned concordantly >1 times
+    ----
+    718001 pairs aligned concordantly 0 times; of these:
+      202022 (28.14%) aligned discordantly 1 time
+    ----
+    515979 pairs aligned 0 times concordantly or discordantly; of these:
+      1031958 mates make up the pairs; of these:
+        340020 (32.95%) aligned 0 times
+        505154 (48.95%) aligned exactly 1 time
+        186784 (18.10%) aligned >1 times
+98.96% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544584_GSM4753079_COVID_60_49y_male_NonICU_Homo_sapiens_RNA-Seq
+16002546 reads; of these:
+  16002546 (100.00%) were paired; of these:
+    727467 (4.55%) aligned concordantly 0 times
+    14017590 (87.60%) aligned concordantly exactly 1 time
+    1257489 (7.86%) aligned concordantly >1 times
+    ----
+    727467 pairs aligned concordantly 0 times; of these:
+      197983 (27.22%) aligned discordantly 1 time
+    ----
+    529484 pairs aligned 0 times concordantly or discordantly; of these:
+      1058968 mates make up the pairs; of these:
+        356121 (33.63%) aligned 0 times
+        514135 (48.55%) aligned exactly 1 time
+        188712 (17.82%) aligned >1 times
+98.89% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544585_GSM4753080_COVID_61_54y_female_NonICU_Homo_sapiens_RNA-Seq
+16750126 reads; of these:
+  16750126 (100.00%) were paired; of these:
+    783974 (4.68%) aligned concordantly 0 times
+    15061516 (89.92%) aligned concordantly exactly 1 time
+    904636 (5.40%) aligned concordantly >1 times
+    ----
+    783974 pairs aligned concordantly 0 times; of these:
+      231284 (29.50%) aligned discordantly 1 time
+    ----
+    552690 pairs aligned 0 times concordantly or discordantly; of these:
+      1105380 mates make up the pairs; of these:
+        414533 (37.50%) aligned 0 times
+        515298 (46.62%) aligned exactly 1 time
+        175549 (15.88%) aligned >1 times
+98.76% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544586_GSM4753080_COVID_61_54y_female_NonICU_Homo_sapiens_RNA-Seq
+16480395 reads; of these:
+  16480395 (100.00%) were paired; of these:
+    794022 (4.82%) aligned concordantly 0 times
+    14790459 (89.75%) aligned concordantly exactly 1 time
+    895914 (5.44%) aligned concordantly >1 times
+    ----
+    794022 pairs aligned concordantly 0 times; of these:
+      227689 (28.68%) aligned discordantly 1 time
+    ----
+    566333 pairs aligned 0 times concordantly or discordantly; of these:
+      1132666 mates make up the pairs; of these:
+        431569 (38.10%) aligned 0 times
+        525987 (46.44%) aligned exactly 1 time
+        175110 (15.46%) aligned >1 times
+98.69% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544587_GSM4753081_COVID_62_78y_female_ICU_Homo_sapiens_RNA-Seq
+16574050 reads; of these:
+  16574050 (100.00%) were paired; of these:
+    976502 (5.89%) aligned concordantly 0 times
+    14496718 (87.47%) aligned concordantly exactly 1 time
+    1100830 (6.64%) aligned concordantly >1 times
+    ----
+    976502 pairs aligned concordantly 0 times; of these:
+      315014 (32.26%) aligned discordantly 1 time
+    ----
+    661488 pairs aligned 0 times concordantly or discordantly; of these:
+      1322976 mates make up the pairs; of these:
+        417961 (31.59%) aligned 0 times
+        654326 (49.46%) aligned exactly 1 time
+        250689 (18.95%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544588_GSM4753081_COVID_62_78y_female_ICU_Homo_sapiens_RNA-Seq
+16294566 reads; of these:
+  16294566 (100.00%) were paired; of these:
+    984522 (6.04%) aligned concordantly 0 times
+    14234235 (87.36%) aligned concordantly exactly 1 time
+    1075809 (6.60%) aligned concordantly >1 times
+    ----
+    984522 pairs aligned concordantly 0 times; of these:
+      309713 (31.46%) aligned discordantly 1 time
+    ----
+    674809 pairs aligned 0 times concordantly or discordantly; of these:
+      1349618 mates make up the pairs; of these:
+        434341 (32.18%) aligned 0 times
+        662854 (49.11%) aligned exactly 1 time
+        252423 (18.70%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544589_GSM4753082_COVID_63_39y_female_ICU_Homo_sapiens_RNA-Seq
+16296590 reads; of these:
+  16296590 (100.00%) were paired; of these:
+    777409 (4.77%) aligned concordantly 0 times
+    14672880 (90.04%) aligned concordantly exactly 1 time
+    846301 (5.19%) aligned concordantly >1 times
+    ----
+    777409 pairs aligned concordantly 0 times; of these:
+      259780 (33.42%) aligned discordantly 1 time
+    ----
+    517629 pairs aligned 0 times concordantly or discordantly; of these:
+      1035258 mates make up the pairs; of these:
+        376141 (36.33%) aligned 0 times
+        502231 (48.51%) aligned exactly 1 time
+        156886 (15.15%) aligned >1 times
+98.85% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544590_GSM4753082_COVID_63_39y_female_ICU_Homo_sapiens_RNA-Seq
+16059713 reads; of these:
+  16059713 (100.00%) were paired; of these:
+    788166 (4.91%) aligned concordantly 0 times
+    14434567 (89.88%) aligned concordantly exactly 1 time
+    836980 (5.21%) aligned concordantly >1 times
+    ----
+    788166 pairs aligned concordantly 0 times; of these:
+      256296 (32.52%) aligned discordantly 1 time
+    ----
+    531870 pairs aligned 0 times concordantly or discordantly; of these:
+      1063740 mates make up the pairs; of these:
+        393195 (36.96%) aligned 0 times
+        512269 (48.16%) aligned exactly 1 time
+        158276 (14.88%) aligned >1 times
+98.78% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544591_GSM4753083_COVID_64_65y_male_ICU_Homo_sapiens_RNA-Seq
+16106469 reads; of these:
+  16106469 (100.00%) were paired; of these:
+    1072427 (6.66%) aligned concordantly 0 times
+    14228416 (88.34%) aligned concordantly exactly 1 time
+    805626 (5.00%) aligned concordantly >1 times
+    ----
+    1072427 pairs aligned concordantly 0 times; of these:
+      425747 (39.70%) aligned discordantly 1 time
+    ----
+    646680 pairs aligned 0 times concordantly or discordantly; of these:
+      1293360 mates make up the pairs; of these:
+        409221 (31.64%) aligned 0 times
+        648384 (50.13%) aligned exactly 1 time
+        235755 (18.23%) aligned >1 times
+98.73% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544593_GSM4753084_COVID_65_84y_male_NonICU_Homo_sapiens_RNA-Seq
+18562329 reads; of these:
+  18562329 (100.00%) were paired; of these:
+    1032883 (5.56%) aligned concordantly 0 times
+    16680163 (89.86%) aligned concordantly exactly 1 time
+    849283 (4.58%) aligned concordantly >1 times
+    ----
+    1032883 pairs aligned concordantly 0 times; of these:
+      351534 (34.03%) aligned discordantly 1 time
+    ----
+    681349 pairs aligned 0 times concordantly or discordantly; of these:
+      1362698 mates make up the pairs; of these:
+        521883 (38.30%) aligned 0 times
+        640986 (47.04%) aligned exactly 1 time
+        199829 (14.66%) aligned >1 times
+98.59% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544594_GSM4753084_COVID_65_84y_male_NonICU_Homo_sapiens_RNA-Seq
+18251601 reads; of these:
+  18251601 (100.00%) were paired; of these:
+    1043216 (5.72%) aligned concordantly 0 times
+    16378449 (89.74%) aligned concordantly exactly 1 time
+    829936 (4.55%) aligned concordantly >1 times
+    ----
+    1043216 pairs aligned concordantly 0 times; of these:
+      344408 (33.01%) aligned discordantly 1 time
+    ----
+    698808 pairs aligned 0 times concordantly or discordantly; of these:
+      1397616 mates make up the pairs; of these:
+        540881 (38.70%) aligned 0 times
+        657764 (47.06%) aligned exactly 1 time
+        198971 (14.24%) aligned >1 times
+98.52% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544595_GSM4753085_COVID_66_66y_female_NonICU_Homo_sapiens_RNA-Seq
+14826425 reads; of these:
+  14826425 (100.00%) were paired; of these:
+    1153433 (7.78%) aligned concordantly 0 times
+    12848107 (86.66%) aligned concordantly exactly 1 time
+    824885 (5.56%) aligned concordantly >1 times
+    ----
+    1153433 pairs aligned concordantly 0 times; of these:
+      376553 (32.65%) aligned discordantly 1 time
+    ----
+    776880 pairs aligned 0 times concordantly or discordantly; of these:
+      1553760 mates make up the pairs; of these:
+        492367 (31.69%) aligned 0 times
+        765735 (49.28%) aligned exactly 1 time
+        295658 (19.03%) aligned >1 times
+98.34% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544597_GSM4753086_COVID_67_57y_male_ICU_Homo_sapiens_RNA-Seq
+16544730 reads; of these:
+  16544730 (100.00%) were paired; of these:
+    1284230 (7.76%) aligned concordantly 0 times
+    13850984 (83.72%) aligned concordantly exactly 1 time
+    1409516 (8.52%) aligned concordantly >1 times
+    ----
+    1284230 pairs aligned concordantly 0 times; of these:
+      194426 (15.14%) aligned discordantly 1 time
+    ----
+    1089804 pairs aligned 0 times concordantly or discordantly; of these:
+      2179608 mates make up the pairs; of these:
+        951083 (43.64%) aligned 0 times
+        856924 (39.32%) aligned exactly 1 time
+        371601 (17.05%) aligned >1 times
+97.13% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544598_GSM4753086_COVID_67_57y_male_ICU_Homo_sapiens_RNA-Seq
+16271303 reads; of these:
+  16271303 (100.00%) were paired; of these:
+    1287834 (7.91%) aligned concordantly 0 times
+    13584385 (83.49%) aligned concordantly exactly 1 time
+    1399084 (8.60%) aligned concordantly >1 times
+    ----
+    1287834 pairs aligned concordantly 0 times; of these:
+      193806 (15.05%) aligned discordantly 1 time
+    ----
+    1094028 pairs aligned 0 times concordantly or discordantly; of these:
+      2188056 mates make up the pairs; of these:
+        958973 (43.83%) aligned 0 times
+        853228 (38.99%) aligned exactly 1 time
+        375855 (17.18%) aligned >1 times
+97.05% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544600_GSM4753087_COVID_68_79y_male_ICU_Homo_sapiens_RNA-Seq
+14528122 reads; of these:
+  14528122 (100.00%) were paired; of these:
+    753565 (5.19%) aligned concordantly 0 times
+    12186198 (83.88%) aligned concordantly exactly 1 time
+    1588359 (10.93%) aligned concordantly >1 times
+    ----
+    753565 pairs aligned concordantly 0 times; of these:
+      144859 (19.22%) aligned discordantly 1 time
+    ----
+    608706 pairs aligned 0 times concordantly or discordantly; of these:
+      1217412 mates make up the pairs; of these:
+        479111 (39.35%) aligned 0 times
+        527057 (43.29%) aligned exactly 1 time
+        211244 (17.35%) aligned >1 times
+98.35% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544601_GSM4753088_COVID_69_77y_female_NonICU_Homo_sapiens_RNA-Seq
+14369998 reads; of these:
+  14369998 (100.00%) were paired; of these:
+    774589 (5.39%) aligned concordantly 0 times
+    12778009 (88.92%) aligned concordantly exactly 1 time
+    817400 (5.69%) aligned concordantly >1 times
+    ----
+    774589 pairs aligned concordantly 0 times; of these:
+      186016 (24.01%) aligned discordantly 1 time
+    ----
+    588573 pairs aligned 0 times concordantly or discordantly; of these:
+      1177146 mates make up the pairs; of these:
+        501373 (42.59%) aligned 0 times
+        498133 (42.32%) aligned exactly 1 time
+        177640 (15.09%) aligned >1 times
+98.26% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544602_GSM4753088_COVID_69_77y_female_NonICU_Homo_sapiens_RNA-Seq
+14127717 reads; of these:
+  14127717 (100.00%) were paired; of these:
+    779636 (5.52%) aligned concordantly 0 times
+    12540144 (88.76%) aligned concordantly exactly 1 time
+    807937 (5.72%) aligned concordantly >1 times
+    ----
+    779636 pairs aligned concordantly 0 times; of these:
+      182392 (23.39%) aligned discordantly 1 time
+    ----
+    597244 pairs aligned 0 times concordantly or discordantly; of these:
+      1194488 mates make up the pairs; of these:
+        512105 (42.87%) aligned 0 times
+        504260 (42.22%) aligned exactly 1 time
+        178123 (14.91%) aligned >1 times
+98.19% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544603_GSM4753089_COVID_70_81y_male_NonICU_Homo_sapiens_RNA-Seq
+16745050 reads; of these:
+  16745050 (100.00%) were paired; of these:
+    832493 (4.97%) aligned concordantly 0 times
+    15140243 (90.42%) aligned concordantly exactly 1 time
+    772314 (4.61%) aligned concordantly >1 times
+    ----
+    832493 pairs aligned concordantly 0 times; of these:
+      277617 (33.35%) aligned discordantly 1 time
+    ----
+    554876 pairs aligned 0 times concordantly or discordantly; of these:
+      1109752 mates make up the pairs; of these:
+        398167 (35.88%) aligned 0 times
+        537650 (48.45%) aligned exactly 1 time
+        173935 (15.67%) aligned >1 times
+98.81% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544604_GSM4753089_COVID_70_81y_male_NonICU_Homo_sapiens_RNA-Seq
+16477133 reads; of these:
+  16477133 (100.00%) were paired; of these:
+    841475 (5.11%) aligned concordantly 0 times
+    14879386 (90.30%) aligned concordantly exactly 1 time
+    756272 (4.59%) aligned concordantly >1 times
+    ----
+    841475 pairs aligned concordantly 0 times; of these:
+      271555 (32.27%) aligned discordantly 1 time
+    ----
+    569920 pairs aligned 0 times concordantly or discordantly; of these:
+      1139840 mates make up the pairs; of these:
+        416921 (36.58%) aligned 0 times
+        547218 (48.01%) aligned exactly 1 time
+        175701 (15.41%) aligned >1 times
+98.73% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544605_GSM4753090_COVID_71_37y_male_ICU_Homo_sapiens_RNA-Seq
+15550870 reads; of these:
+  15550870 (100.00%) were paired; of these:
+    1377283 (8.86%) aligned concordantly 0 times
+    13289855 (85.46%) aligned concordantly exactly 1 time
+    883732 (5.68%) aligned concordantly >1 times
+    ----
+    1377283 pairs aligned concordantly 0 times; of these:
+      536777 (38.97%) aligned discordantly 1 time
+    ----
+    840506 pairs aligned 0 times concordantly or discordantly; of these:
+      1681012 mates make up the pairs; of these:
+        478941 (28.49%) aligned 0 times
+        848544 (50.48%) aligned exactly 1 time
+        353527 (21.03%) aligned >1 times
+98.46% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544606_GSM4753090_COVID_71_37y_male_ICU_Homo_sapiens_RNA-Seq
+15310884 reads; of these:
+  15310884 (100.00%) were paired; of these:
+    1377038 (8.99%) aligned concordantly 0 times
+    13068945 (85.36%) aligned concordantly exactly 1 time
+    864901 (5.65%) aligned concordantly >1 times
+    ----
+    1377038 pairs aligned concordantly 0 times; of these:
+      525614 (38.17%) aligned discordantly 1 time
+    ----
+    851424 pairs aligned 0 times concordantly or discordantly; of these:
+      1702848 mates make up the pairs; of these:
+        494153 (29.02%) aligned 0 times
+        858927 (50.44%) aligned exactly 1 time
+        349768 (20.54%) aligned >1 times
+98.39% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544607_GSM4753091_COVID_72_50y_female_NonICU_Homo_sapiens_RNA-Seq
+14881034 reads; of these:
+  14881034 (100.00%) were paired; of these:
+    1342319 (9.02%) aligned concordantly 0 times
+    12566004 (84.44%) aligned concordantly exactly 1 time
+    972711 (6.54%) aligned concordantly >1 times
+    ----
+    1342319 pairs aligned concordantly 0 times; of these:
+      448587 (33.42%) aligned discordantly 1 time
+    ----
+    893732 pairs aligned 0 times concordantly or discordantly; of these:
+      1787464 mates make up the pairs; of these:
+        490623 (27.45%) aligned 0 times
+        889008 (49.74%) aligned exactly 1 time
+        407833 (22.82%) aligned >1 times
+98.35% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544608_GSM4753091_COVID_72_50y_female_NonICU_Homo_sapiens_RNA-Seq
+14634188 reads; of these:
+  14634188 (100.00%) were paired; of these:
+    1348488 (9.21%) aligned concordantly 0 times
+    12339451 (84.32%) aligned concordantly exactly 1 time
+    946249 (6.47%) aligned concordantly >1 times
+    ----
+    1348488 pairs aligned concordantly 0 times; of these:
+      444657 (32.97%) aligned discordantly 1 time
+    ----
+    903831 pairs aligned 0 times concordantly or discordantly; of these:
+      1807662 mates make up the pairs; of these:
+        505856 (27.98%) aligned 0 times
+        894188 (49.47%) aligned exactly 1 time
+        407618 (22.55%) aligned >1 times
+98.27% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544609_GSM4753092_COVID_73_82y_male_NonICU_Homo_sapiens_RNA-Seq
+15744948 reads; of these:
+  15744948 (100.00%) were paired; of these:
+    953235 (6.05%) aligned concordantly 0 times
+    14094831 (89.52%) aligned concordantly exactly 1 time
+    696882 (4.43%) aligned concordantly >1 times
+    ----
+    953235 pairs aligned concordantly 0 times; of these:
+      428552 (44.96%) aligned discordantly 1 time
+    ----
+    524683 pairs aligned 0 times concordantly or discordantly; of these:
+      1049366 mates make up the pairs; of these:
+        305042 (29.07%) aligned 0 times
+        555544 (52.94%) aligned exactly 1 time
+        188780 (17.99%) aligned >1 times
+99.03% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544610_GSM4753092_COVID_73_82y_male_NonICU_Homo_sapiens_RNA-Seq
+15508873 reads; of these:
+  15508873 (100.00%) were paired; of these:
+    962322 (6.20%) aligned concordantly 0 times
+    13864042 (89.39%) aligned concordantly exactly 1 time
+    682509 (4.40%) aligned concordantly >1 times
+    ----
+    962322 pairs aligned concordantly 0 times; of these:
+      421619 (43.81%) aligned discordantly 1 time
+    ----
+    540703 pairs aligned 0 times concordantly or discordantly; of these:
+      1081406 mates make up the pairs; of these:
+        324113 (29.97%) aligned 0 times
+        569074 (52.62%) aligned exactly 1 time
+        188219 (17.41%) aligned >1 times
+98.96% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544611_GSM4753093_COVID_74_55y_female_ICU_Homo_sapiens_RNA-Seq
+16541186 reads; of these:
+  16541186 (100.00%) were paired; of these:
+    871081 (5.27%) aligned concordantly 0 times
+    14467357 (87.46%) aligned concordantly exactly 1 time
+    1202748 (7.27%) aligned concordantly >1 times
+    ----
+    871081 pairs aligned concordantly 0 times; of these:
+      242874 (27.88%) aligned discordantly 1 time
+    ----
+    628207 pairs aligned 0 times concordantly or discordantly; of these:
+      1256414 mates make up the pairs; of these:
+        461768 (36.75%) aligned 0 times
+        576189 (45.86%) aligned exactly 1 time
+        218457 (17.39%) aligned >1 times
+98.60% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544612_GSM4753093_COVID_74_55y_female_ICU_Homo_sapiens_RNA-Seq
+16308800 reads; of these:
+  16308800 (100.00%) were paired; of these:
+    882229 (5.41%) aligned concordantly 0 times
+    14259480 (87.43%) aligned concordantly exactly 1 time
+    1167091 (7.16%) aligned concordantly >1 times
+    ----
+    882229 pairs aligned concordantly 0 times; of these:
+      238770 (27.06%) aligned discordantly 1 time
+    ----
+    643459 pairs aligned 0 times concordantly or discordantly; of these:
+      1286918 mates make up the pairs; of these:
+        479534 (37.26%) aligned 0 times
+        587921 (45.68%) aligned exactly 1 time
+        219463 (17.05%) aligned >1 times
+98.53% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544613_GSM4753094_COVID_75_55y_male_NonICU_Homo_sapiens_RNA-Seq
+16540600 reads; of these:
+  16540600 (100.00%) were paired; of these:
+    1294339 (7.83%) aligned concordantly 0 times
+    14519685 (87.78%) aligned concordantly exactly 1 time
+    726576 (4.39%) aligned concordantly >1 times
+    ----
+    1294339 pairs aligned concordantly 0 times; of these:
+      618981 (47.82%) aligned discordantly 1 time
+    ----
+    675358 pairs aligned 0 times concordantly or discordantly; of these:
+      1350716 mates make up the pairs; of these:
+        389679 (28.85%) aligned 0 times
+        716551 (53.05%) aligned exactly 1 time
+        244486 (18.10%) aligned >1 times
+98.82% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544614_GSM4753094_COVID_75_55y_male_NonICU_Homo_sapiens_RNA-Seq
+16289075 reads; of these:
+  16289075 (100.00%) were paired; of these:
+    1298469 (7.97%) aligned concordantly 0 times
+    14278150 (87.65%) aligned concordantly exactly 1 time
+    712456 (4.37%) aligned concordantly >1 times
+    ----
+    1298469 pairs aligned concordantly 0 times; of these:
+      607919 (46.82%) aligned discordantly 1 time
+    ----
+    690550 pairs aligned 0 times concordantly or discordantly; of these:
+      1381100 mates make up the pairs; of these:
+        407969 (29.54%) aligned 0 times
+        729803 (52.84%) aligned exactly 1 time
+        243328 (17.62%) aligned >1 times
+98.75% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544615_GSM4753095_COVID_76_73y_female_ICU_Homo_sapiens_RNA-Seq
+17463421 reads; of these:
+  17463421 (100.00%) were paired; of these:
+    1188672 (6.81%) aligned concordantly 0 times
+    15379249 (88.07%) aligned concordantly exactly 1 time
+    895500 (5.13%) aligned concordantly >1 times
+    ----
+    1188672 pairs aligned concordantly 0 times; of these:
+      513756 (43.22%) aligned discordantly 1 time
+    ----
+    674916 pairs aligned 0 times concordantly or discordantly; of these:
+      1349832 mates make up the pairs; of these:
+        344509 (25.52%) aligned 0 times
+        726457 (53.82%) aligned exactly 1 time
+        278866 (20.66%) aligned >1 times
+99.01% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544616_GSM4753095_COVID_76_73y_female_ICU_Homo_sapiens_RNA-Seq
+17207497 reads; of these:
+  17207497 (100.00%) were paired; of these:
+    1197718 (6.96%) aligned concordantly 0 times
+    15139312 (87.98%) aligned concordantly exactly 1 time
+    870467 (5.06%) aligned concordantly >1 times
+    ----
+    1197718 pairs aligned concordantly 0 times; of these:
+      506139 (42.26%) aligned discordantly 1 time
+    ----
+    691579 pairs aligned 0 times concordantly or discordantly; of these:
+      1383158 mates make up the pairs; of these:
+        366365 (26.49%) aligned 0 times
+        737236 (53.30%) aligned exactly 1 time
+        279557 (20.21%) aligned >1 times
+98.94% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544617_GSM4753096_COVID_77_55y_female_ICU_Homo_sapiens_RNA-Seq
+15672846 reads; of these:
+  15672846 (100.00%) were paired; of these:
+    815851 (5.21%) aligned concordantly 0 times
+    14068998 (89.77%) aligned concordantly exactly 1 time
+    787997 (5.03%) aligned concordantly >1 times
+    ----
+    815851 pairs aligned concordantly 0 times; of these:
+      285933 (35.05%) aligned discordantly 1 time
+    ----
+    529918 pairs aligned 0 times concordantly or discordantly; of these:
+      1059836 mates make up the pairs; of these:
+        371709 (35.07%) aligned 0 times
+        526949 (49.72%) aligned exactly 1 time
+        161178 (15.21%) aligned >1 times
+98.81% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544618_GSM4753096_COVID_77_55y_female_ICU_Homo_sapiens_RNA-Seq
+15419868 reads; of these:
+  15419868 (100.00%) were paired; of these:
+    825091 (5.35%) aligned concordantly 0 times
+    13801603 (89.51%) aligned concordantly exactly 1 time
+    793174 (5.14%) aligned concordantly >1 times
+    ----
+    825091 pairs aligned concordantly 0 times; of these:
+      282378 (34.22%) aligned discordantly 1 time
+    ----
+    542713 pairs aligned 0 times concordantly or discordantly; of these:
+      1085426 mates make up the pairs; of these:
+        388249 (35.77%) aligned 0 times
+        534984 (49.29%) aligned exactly 1 time
+        162193 (14.94%) aligned >1 times
+98.74% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544628_GSM4753101_COVID_83_85y_female_NonICU_Homo_sapiens_RNA-Seq
+13485353 reads; of these:
+  13485353 (100.00%) were paired; of these:
+    1119721 (8.30%) aligned concordantly 0 times
+    11637765 (86.30%) aligned concordantly exactly 1 time
+    727867 (5.40%) aligned concordantly >1 times
+    ----
+    1119721 pairs aligned concordantly 0 times; of these:
+      405485 (36.21%) aligned discordantly 1 time
+    ----
+    714236 pairs aligned 0 times concordantly or discordantly; of these:
+      1428472 mates make up the pairs; of these:
+        431548 (30.21%) aligned 0 times
+        702075 (49.15%) aligned exactly 1 time
+        294849 (20.64%) aligned >1 times
+98.40% overall alignment rate
+[bam_sort_core] merging from 13 files...
+Processing sample: SRR12544629_GSM4753102_COVID_84_75y_female_NonICU_Homo_sapiens_RNA-Seq
+15223591 reads; of these:
+  15223591 (100.00%) were paired; of these:
+    677024 (4.45%) aligned concordantly 0 times
+    13599311 (89.33%) aligned concordantly exactly 1 time
+    947256 (6.22%) aligned concordantly >1 times
+    ----
+    677024 pairs aligned concordantly 0 times; of these:
+      216668 (32.00%) aligned discordantly 1 time
+    ----
+    460356 pairs aligned 0 times concordantly or discordantly; of these:
+      920712 mates make up the pairs; of these:
+        325739 (35.38%) aligned 0 times
+        444791 (48.31%) aligned exactly 1 time
+        150182 (16.31%) aligned >1 times
+98.93% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544630_GSM4753102_COVID_84_75y_female_NonICU_Homo_sapiens_RNA-Seq
+14960080 reads; of these:
+  14960080 (100.00%) were paired; of these:
+    686507 (4.59%) aligned concordantly 0 times
+    13344708 (89.20%) aligned concordantly exactly 1 time
+    928865 (6.21%) aligned concordantly >1 times
+    ----
+    686507 pairs aligned concordantly 0 times; of these:
+      214581 (31.26%) aligned discordantly 1 time
+    ----
+    471926 pairs aligned 0 times concordantly or discordantly; of these:
+      943852 mates make up the pairs; of these:
+        340569 (36.08%) aligned 0 times
+        452412 (47.93%) aligned exactly 1 time
+        150871 (15.98%) aligned >1 times
+98.86% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544631_GSM4753103_COVID_85_62y_male_ICU_Homo_sapiens_RNA-Seq
+13786642 reads; of these:
+  13786642 (100.00%) were paired; of these:
+    1082662 (7.85%) aligned concordantly 0 times
+    11662440 (84.59%) aligned concordantly exactly 1 time
+    1041540 (7.55%) aligned concordantly >1 times
+    ----
+    1082662 pairs aligned concordantly 0 times; of these:
+      339850 (31.39%) aligned discordantly 1 time
+    ----
+    742812 pairs aligned 0 times concordantly or discordantly; of these:
+      1485624 mates make up the pairs; of these:
+        405851 (27.32%) aligned 0 times
+        752262 (50.64%) aligned exactly 1 time
+        327511 (22.05%) aligned >1 times
+98.53% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544637_GSM4753106_COVID_89_90y_female_NonICU_Homo_sapiens_RNA-Seq
+15977004 reads; of these:
+  15977004 (100.00%) were paired; of these:
+    1732836 (10.85%) aligned concordantly 0 times
+    13364200 (83.65%) aligned concordantly exactly 1 time
+    879968 (5.51%) aligned concordantly >1 times
+    ----
+    1732836 pairs aligned concordantly 0 times; of these:
+      843379 (48.67%) aligned discordantly 1 time
+    ----
+    889457 pairs aligned 0 times concordantly or discordantly; of these:
+      1778914 mates make up the pairs; of these:
+        391530 (22.01%) aligned 0 times
+        1001856 (56.32%) aligned exactly 1 time
+        385528 (21.67%) aligned >1 times
+98.77% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544638_GSM4753106_COVID_89_90y_female_NonICU_Homo_sapiens_RNA-Seq
+15737002 reads; of these:
+  15737002 (100.00%) were paired; of these:
+    1728643 (10.98%) aligned concordantly 0 times
+    13112829 (83.32%) aligned concordantly exactly 1 time
+    895530 (5.69%) aligned concordantly >1 times
+    ----
+    1728643 pairs aligned concordantly 0 times; of these:
+      824059 (47.67%) aligned discordantly 1 time
+    ----
+    904584 pairs aligned 0 times concordantly or discordantly; of these:
+      1809168 mates make up the pairs; of these:
+        410014 (22.66%) aligned 0 times
+        1008091 (55.72%) aligned exactly 1 time
+        391063 (21.62%) aligned >1 times
+98.70% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544641_GSM4753108_COVID_91_29y_female_NonICU_Homo_sapiens_RNA-Seq
+16289845 reads; of these:
+  16289845 (100.00%) were paired; of these:
+    675071 (4.14%) aligned concordantly 0 times
+    14334992 (88.00%) aligned concordantly exactly 1 time
+    1279782 (7.86%) aligned concordantly >1 times
+    ----
+    675071 pairs aligned concordantly 0 times; of these:
+      166941 (24.73%) aligned discordantly 1 time
+    ----
+    508130 pairs aligned 0 times concordantly or discordantly; of these:
+      1016260 mates make up the pairs; of these:
+        342553 (33.71%) aligned 0 times
+        485357 (47.76%) aligned exactly 1 time
+        188350 (18.53%) aligned >1 times
+98.95% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544642_GSM4753108_COVID_91_29y_female_NonICU_Homo_sapiens_RNA-Seq
+16017171 reads; of these:
+  16017171 (100.00%) were paired; of these:
+    687250 (4.29%) aligned concordantly 0 times
+    14105042 (88.06%) aligned concordantly exactly 1 time
+    1224879 (7.65%) aligned concordantly >1 times
+    ----
+    687250 pairs aligned concordantly 0 times; of these:
+      164054 (23.87%) aligned discordantly 1 time
+    ----
+    523196 pairs aligned 0 times concordantly or discordantly; of these:
+      1046392 mates make up the pairs; of these:
+        360586 (34.46%) aligned 0 times
+        495144 (47.32%) aligned exactly 1 time
+        190662 (18.22%) aligned >1 times
+98.87% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544644_GSM4753109_COVID_92_82y_female_ICU_Homo_sapiens_RNA-Seq
+15957172 reads; of these:
+  15957172 (100.00%) were paired; of these:
+    1414078 (8.86%) aligned concordantly 0 times
+    13407993 (84.02%) aligned concordantly exactly 1 time
+    1135101 (7.11%) aligned concordantly >1 times
+    ----
+    1414078 pairs aligned concordantly 0 times; of these:
+      569336 (40.26%) aligned discordantly 1 time
+    ----
+    844742 pairs aligned 0 times concordantly or discordantly; of these:
+      1689484 mates make up the pairs; of these:
+        433839 (25.68%) aligned 0 times
+        870443 (51.52%) aligned exactly 1 time
+        385202 (22.80%) aligned >1 times
+98.64% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544645_GSM4753110_COVID_93_81y_female_ICU_Homo_sapiens_RNA-Seq
+16441071 reads; of these:
+  16441071 (100.00%) were paired; of these:
+    929406 (5.65%) aligned concordantly 0 times
+    14358745 (87.33%) aligned concordantly exactly 1 time
+    1152920 (7.01%) aligned concordantly >1 times
+    ----
+    929406 pairs aligned concordantly 0 times; of these:
+      261136 (28.10%) aligned discordantly 1 time
+    ----
+    668270 pairs aligned 0 times concordantly or discordantly; of these:
+      1336540 mates make up the pairs; of these:
+        501309 (37.51%) aligned 0 times
+        603595 (45.16%) aligned exactly 1 time
+        231636 (17.33%) aligned >1 times
+98.48% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544646_GSM4753110_COVID_93_81y_female_ICU_Homo_sapiens_RNA-Seq
+16172654 reads; of these:
+  16172654 (100.00%) were paired; of these:
+    940364 (5.81%) aligned concordantly 0 times
+    14094588 (87.15%) aligned concordantly exactly 1 time
+    1137702 (7.03%) aligned concordantly >1 times
+    ----
+    940364 pairs aligned concordantly 0 times; of these:
+      256382 (27.26%) aligned discordantly 1 time
+    ----
+    683982 pairs aligned 0 times concordantly or discordantly; of these:
+      1367964 mates make up the pairs; of these:
+        518141 (37.88%) aligned 0 times
+        614208 (44.90%) aligned exactly 1 time
+        235615 (17.22%) aligned >1 times
+98.40% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544647_GSM4753111_COVID_94_24y_female_NonICU_Homo_sapiens_RNA-Seq
+17403954 reads; of these:
+  17403954 (100.00%) were paired; of these:
+    927313 (5.33%) aligned concordantly 0 times
+    15114956 (86.85%) aligned concordantly exactly 1 time
+    1361685 (7.82%) aligned concordantly >1 times
+    ----
+    927313 pairs aligned concordantly 0 times; of these:
+      227594 (24.54%) aligned discordantly 1 time
+    ----
+    699719 pairs aligned 0 times concordantly or discordantly; of these:
+      1399438 mates make up the pairs; of these:
+        496997 (35.51%) aligned 0 times
+        642822 (45.93%) aligned exactly 1 time
+        259619 (18.55%) aligned >1 times
+98.57% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544648_GSM4753111_COVID_94_24y_female_NonICU_Homo_sapiens_RNA-Seq
+17114759 reads; of these:
+  17114759 (100.00%) were paired; of these:
+    940725 (5.50%) aligned concordantly 0 times
+    14838742 (86.70%) aligned concordantly exactly 1 time
+    1335292 (7.80%) aligned concordantly >1 times
+    ----
+    940725 pairs aligned concordantly 0 times; of these:
+      224697 (23.89%) aligned discordantly 1 time
+    ----
+    716028 pairs aligned 0 times concordantly or discordantly; of these:
+      1432056 mates make up the pairs; of these:
+        515515 (36.00%) aligned 0 times
+        653685 (45.65%) aligned exactly 1 time
+        262856 (18.36%) aligned >1 times
+98.49% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544649_GSM4753112_COVID_95_49y_male_NonICU_Homo_sapiens_RNA-Seq
+14968534 reads; of these:
+  14968534 (100.00%) were paired; of these:
+    1469312 (9.82%) aligned concordantly 0 times
+    12717942 (84.96%) aligned concordantly exactly 1 time
+    781280 (5.22%) aligned concordantly >1 times
+    ----
+    1469312 pairs aligned concordantly 0 times; of these:
+      628853 (42.80%) aligned discordantly 1 time
+    ----
+    840459 pairs aligned 0 times concordantly or discordantly; of these:
+      1680918 mates make up the pairs; of these:
+        432679 (25.74%) aligned 0 times
+        865742 (51.50%) aligned exactly 1 time
+        382497 (22.76%) aligned >1 times
+98.55% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544650_GSM4753112_COVID_95_49y_male_NonICU_Homo_sapiens_RNA-Seq
+14730729 reads; of these:
+  14730729 (100.00%) were paired; of these:
+    1467930 (9.97%) aligned concordantly 0 times
+    12501336 (84.87%) aligned concordantly exactly 1 time
+    761463 (5.17%) aligned concordantly >1 times
+    ----
+    1467930 pairs aligned concordantly 0 times; of these:
+      617087 (42.04%) aligned discordantly 1 time
+    ----
+    850843 pairs aligned 0 times concordantly or discordantly; of these:
+      1701686 mates make up the pairs; of these:
+        448709 (26.37%) aligned 0 times
+        873179 (51.31%) aligned exactly 1 time
+        379798 (22.32%) aligned >1 times
+98.48% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544651_GSM4753113_COVID_96_51y_male_NonICU_Homo_sapiens_RNA-Seq
+13551860 reads; of these:
+  13551860 (100.00%) were paired; of these:
+    718201 (5.30%) aligned concordantly 0 times
+    11323453 (83.56%) aligned concordantly exactly 1 time
+    1510206 (11.14%) aligned concordantly >1 times
+    ----
+    718201 pairs aligned concordantly 0 times; of these:
+      142339 (19.82%) aligned discordantly 1 time
+    ----
+    575862 pairs aligned 0 times concordantly or discordantly; of these:
+      1151724 mates make up the pairs; of these:
+        397133 (34.48%) aligned 0 times
+        512978 (44.54%) aligned exactly 1 time
+        241613 (20.98%) aligned >1 times
+98.53% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544652_GSM4753113_COVID_96_51y_male_NonICU_Homo_sapiens_RNA-Seq
+13300298 reads; of these:
+  13300298 (100.00%) were paired; of these:
+    721574 (5.43%) aligned concordantly 0 times
+    11090705 (83.39%) aligned concordantly exactly 1 time
+    1488019 (11.19%) aligned concordantly >1 times
+    ----
+    721574 pairs aligned concordantly 0 times; of these:
+      138155 (19.15%) aligned discordantly 1 time
+    ----
+    583419 pairs aligned 0 times concordantly or discordantly; of these:
+      1166838 mates make up the pairs; of these:
+        407789 (34.95%) aligned 0 times
+        518663 (44.45%) aligned exactly 1 time
+        240386 (20.60%) aligned >1 times
+98.47% overall alignment rate
+[bam_sort_core] merging from 15 files...
+Processing sample: SRR12544653_GSM4753114_COVID_97_76y_male_ICU_Homo_sapiens_RNA-Seq
+14518965 reads; of these:
+  14518965 (100.00%) were paired; of these:
+    1345312 (9.27%) aligned concordantly 0 times
+    12336445 (84.97%) aligned concordantly exactly 1 time
+    837208 (5.77%) aligned concordantly >1 times
+    ----
+    1345312 pairs aligned concordantly 0 times; of these:
+      430236 (31.98%) aligned discordantly 1 time
+    ----
+    915076 pairs aligned 0 times concordantly or discordantly; of these:
+      1830152 mates make up the pairs; of these:
+        554771 (30.31%) aligned 0 times
+        874514 (47.78%) aligned exactly 1 time
+        400867 (21.90%) aligned >1 times
+98.09% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544654_GSM4753114_COVID_97_76y_male_ICU_Homo_sapiens_RNA-Seq
+14268248 reads; of these:
+  14268248 (100.00%) were paired; of these:
+    1342932 (9.41%) aligned concordantly 0 times
+    12108897 (84.87%) aligned concordantly exactly 1 time
+    816419 (5.72%) aligned concordantly >1 times
+    ----
+    1342932 pairs aligned concordantly 0 times; of these:
+      421964 (31.42%) aligned discordantly 1 time
+    ----
+    920968 pairs aligned 0 times concordantly or discordantly; of these:
+      1841936 mates make up the pairs; of these:
+        566118 (30.73%) aligned 0 times
+        878956 (47.72%) aligned exactly 1 time
+        396862 (21.55%) aligned >1 times
+98.02% overall alignment rate
+[bam_sort_core] merging from 14 files...
+Processing sample: SRR12544655_GSM4753115_COVID_98_81y_male_NonICU_Homo_sapiens_RNA-Seq
+16286697 reads; of these:
+  16286697 (100.00%) were paired; of these:
+    1074232 (6.60%) aligned concordantly 0 times
+    13778408 (84.60%) aligned concordantly exactly 1 time
+    1434057 (8.81%) aligned concordantly >1 times
+    ----
+    1074232 pairs aligned concordantly 0 times; of these:
+      326428 (30.39%) aligned discordantly 1 time
+    ----
+    747804 pairs aligned 0 times concordantly or discordantly; of these:
+      1495608 mates make up the pairs; of these:
+        498023 (33.30%) aligned 0 times
+        694888 (46.46%) aligned exactly 1 time
+        302697 (20.24%) aligned >1 times
+98.47% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544656_GSM4753115_COVID_98_81y_male_NonICU_Homo_sapiens_RNA-Seq
+16046199 reads; of these:
+  16046199 (100.00%) were paired; of these:
+    1080433 (6.73%) aligned concordantly 0 times
+    13558581 (84.50%) aligned concordantly exactly 1 time
+    1407185 (8.77%) aligned concordantly >1 times
+    ----
+    1080433 pairs aligned concordantly 0 times; of these:
+      318892 (29.52%) aligned discordantly 1 time
+    ----
+    761541 pairs aligned 0 times concordantly or discordantly; of these:
+      1523082 mates make up the pairs; of these:
+        515827 (33.87%) aligned 0 times
+        708807 (46.54%) aligned exactly 1 time
+        298448 (19.60%) aligned >1 times
+98.39% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544657_GSM4753116_COVID_99_71y_male_ICU_Homo_sapiens_RNA-Seq
+17302735 reads; of these:
+  17302735 (100.00%) were paired; of these:
+    677453 (3.92%) aligned concordantly 0 times
+    15509555 (89.64%) aligned concordantly exactly 1 time
+    1115727 (6.45%) aligned concordantly >1 times
+    ----
+    677453 pairs aligned concordantly 0 times; of these:
+      86851 (12.82%) aligned discordantly 1 time
+    ----
+    590602 pairs aligned 0 times concordantly or discordantly; of these:
+      1181204 mates make up the pairs; of these:
+        460448 (38.98%) aligned 0 times
+        518512 (43.90%) aligned exactly 1 time
+        202244 (17.12%) aligned >1 times
+98.67% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544658_GSM4753116_COVID_99_71y_male_ICU_Homo_sapiens_RNA-Seq
+17027240 reads; of these:
+  17027240 (100.00%) were paired; of these:
+    692685 (4.07%) aligned concordantly 0 times
+    15221927 (89.40%) aligned concordantly exactly 1 time
+    1112628 (6.53%) aligned concordantly >1 times
+    ----
+    692685 pairs aligned concordantly 0 times; of these:
+      84904 (12.26%) aligned discordantly 1 time
+    ----
+    607781 pairs aligned 0 times concordantly or discordantly; of these:
+      1215562 mates make up the pairs; of these:
+        479548 (39.45%) aligned 0 times
+        532066 (43.77%) aligned exactly 1 time
+        203948 (16.78%) aligned >1 times
+98.59% overall alignment rate
+[bam_sort_core] merging from 16 files...
+Processing sample: SRR12544659_GSM4753117_COVID_100_74y_female_NonICU_Homo_sapiens_RNA-Seq
+17408705 reads; of these:
+  17408705 (100.00%) were paired; of these:
+    667419 (3.83%) aligned concordantly 0 times
+    15643548 (89.86%) aligned concordantly exactly 1 time
+    1097738 (6.31%) aligned concordantly >1 times
+    ----
+    667419 pairs aligned concordantly 0 times; of these:
+      84899 (12.72%) aligned discordantly 1 time
+    ----
+    582520 pairs aligned 0 times concordantly or discordantly; of these:
+      1165040 mates make up the pairs; of these:
+        471325 (40.46%) aligned 0 times
+        504793 (43.33%) aligned exactly 1 time
+        188922 (16.22%) aligned >1 times
+98.65% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544662_GSM4753118_COVID_101_58y_male_ICU_Homo_sapiens_RNA-Seq
+17750037 reads; of these:
+  17750037 (100.00%) were paired; of these:
+    574436 (3.24%) aligned concordantly 0 times
+    15747314 (88.72%) aligned concordantly exactly 1 time
+    1428287 (8.05%) aligned concordantly >1 times
+    ----
+    574436 pairs aligned concordantly 0 times; of these:
+      72965 (12.70%) aligned discordantly 1 time
+    ----
+    501471 pairs aligned 0 times concordantly or discordantly; of these:
+      1002942 mates make up the pairs; of these:
+        436972 (43.57%) aligned 0 times
+        430701 (42.94%) aligned exactly 1 time
+        135269 (13.49%) aligned >1 times
+98.77% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544663_GSM4753119_COVID_102_84y_male_NonICU_Homo_sapiens_RNA-Seq
+19224873 reads; of these:
+  19224873 (100.00%) were paired; of these:
+    477986 (2.49%) aligned concordantly 0 times
+    17835360 (92.77%) aligned concordantly exactly 1 time
+    911527 (4.74%) aligned concordantly >1 times
+    ----
+    477986 pairs aligned concordantly 0 times; of these:
+      75449 (15.78%) aligned discordantly 1 time
+    ----
+    402537 pairs aligned 0 times concordantly or discordantly; of these:
+      805074 mates make up the pairs; of these:
+        353136 (43.86%) aligned 0 times
+        359373 (44.64%) aligned exactly 1 time
+        92565 (11.50%) aligned >1 times
+99.08% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544664_GSM4753119_COVID_102_84y_male_NonICU_Homo_sapiens_RNA-Seq
+18949513 reads; of these:
+  18949513 (100.00%) were paired; of these:
+    496257 (2.62%) aligned concordantly 0 times
+    17557471 (92.65%) aligned concordantly exactly 1 time
+    895785 (4.73%) aligned concordantly >1 times
+    ----
+    496257 pairs aligned concordantly 0 times; of these:
+      74073 (14.93%) aligned discordantly 1 time
+    ----
+    422184 pairs aligned 0 times concordantly or discordantly; of these:
+      844368 mates make up the pairs; of these:
+        374175 (44.31%) aligned 0 times
+        376112 (44.54%) aligned exactly 1 time
+        94081 (11.14%) aligned >1 times
+99.01% overall alignment rate
+[bam_sort_core] merging from 18 files...
+Processing sample: SRR12544665_GSM4753120_COVID_103_83y_male_NonICU_Homo_sapiens_RNA-Seq
+20335268 reads; of these:
+  20335268 (100.00%) were paired; of these:
+    491663 (2.42%) aligned concordantly 0 times
+    18666713 (91.79%) aligned concordantly exactly 1 time
+    1176892 (5.79%) aligned concordantly >1 times
+    ----
+    491663 pairs aligned concordantly 0 times; of these:
+      51815 (10.54%) aligned discordantly 1 time
+    ----
+    439848 pairs aligned 0 times concordantly or discordantly; of these:
+      879696 mates make up the pairs; of these:
+        399019 (45.36%) aligned 0 times
+        383194 (43.56%) aligned exactly 1 time
+        97483 (11.08%) aligned >1 times
+99.02% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544666_GSM4753120_COVID_103_83y_male_NonICU_Homo_sapiens_RNA-Seq
+20044052 reads; of these:
+  20044052 (100.00%) were paired; of these:
+    511919 (2.55%) aligned concordantly 0 times
+    18377544 (91.69%) aligned concordantly exactly 1 time
+    1154589 (5.76%) aligned concordantly >1 times
+    ----
+    511919 pairs aligned concordantly 0 times; of these:
+      50595 (9.88%) aligned discordantly 1 time
+    ----
+    461324 pairs aligned 0 times concordantly or discordantly; of these:
+      922648 mates make up the pairs; of these:
+        422651 (45.81%) aligned 0 times
+        398124 (43.15%) aligned exactly 1 time
+        101873 (11.04%) aligned >1 times
+98.95% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544667_GSM4753121_NONCOVID_01_54y_female_NonICU_Homo_sapiens_RNA-Seq
+16250284 reads; of these:
+  16250284 (100.00%) were paired; of these:
+    441665 (2.72%) aligned concordantly 0 times
+    14081713 (86.66%) aligned concordantly exactly 1 time
+    1726906 (10.63%) aligned concordantly >1 times
+    ----
+    441665 pairs aligned concordantly 0 times; of these:
+      56901 (12.88%) aligned discordantly 1 time
+    ----
+    384764 pairs aligned 0 times concordantly or discordantly; of these:
+      769528 mates make up the pairs; of these:
+        357765 (46.49%) aligned 0 times
+        308960 (40.15%) aligned exactly 1 time
+        102803 (13.36%) aligned >1 times
+98.90% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544668_GSM4753121_NONCOVID_01_54y_female_NonICU_Homo_sapiens_RNA-Seq
+15983968 reads; of these:
+  15983968 (100.00%) were paired; of these:
+    454207 (2.84%) aligned concordantly 0 times
+    13802548 (86.35%) aligned concordantly exactly 1 time
+    1727213 (10.81%) aligned concordantly >1 times
+    ----
+    454207 pairs aligned concordantly 0 times; of these:
+      54857 (12.08%) aligned discordantly 1 time
+    ----
+    399350 pairs aligned 0 times concordantly or discordantly; of these:
+      798700 mates make up the pairs; of these:
+        374037 (46.83%) aligned 0 times
+        320201 (40.09%) aligned exactly 1 time
+        104462 (13.08%) aligned >1 times
+98.83% overall alignment rate
+[bam_sort_core] merging from 17 files...
+Processing sample: SRR12544669_GSM4753122_NONCOVID_02_65y_male_ICU_Homo_sapiens_RNA-Seq
+19984197 reads; of these:
+  19984197 (100.00%) were paired; of these:
+    437895 (2.19%) aligned concordantly 0 times
+    18121639 (90.68%) aligned concordantly exactly 1 time
+    1424663 (7.13%) aligned concordantly >1 times
+    ----
+    437895 pairs aligned concordantly 0 times; of these:
+      45915 (10.49%) aligned discordantly 1 time
+    ----
+    391980 pairs aligned 0 times concordantly or discordantly; of these:
+      783960 mates make up the pairs; of these:
+        356828 (45.52%) aligned 0 times
+        342143 (43.64%) aligned exactly 1 time
+        84989 (10.84%) aligned >1 times
+99.11% overall alignment rate
+[bam_sort_core] merging from 19 files...
+Processing sample: SRR12544670_GSM4753122_NONCOVID_02_65y_male_ICU_Homo_sapiens_RNA-Seq
+19691020 reads; of these:
+  19691020 (100.00%) were paired; of these:
+    457659 (2.32%) aligned concordantly 0 times
+    17861160 (90.71%) aligned concordantly exactly 1 time
+    1372201 (6.97%) aligned concordantly >1 times
+    ----
+    457659 pairs aligned concordantly 0 times; of these:
+      45048 (9.84%) aligned discordantly 1 time
+    ----
+    412611 pairs aligned 0 times concordantly or discordantly; of these:
+      825222 mates make up the pairs; of these:
+        378825 (45.91%) aligned 0 times
+        359770 (43.60%) aligned exactly 1 time
+        86627 (10.50%) aligned >1 times
+99.04% overall alignment rate
+[bam_sort_core] merging from 19 files...
+HISAT2 finished running!
+Time taken: 191625 seconds.
