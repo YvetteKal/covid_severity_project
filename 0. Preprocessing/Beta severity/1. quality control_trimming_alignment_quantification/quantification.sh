@@ -1,19 +1,17 @@
 #!/bin/bash
 
-# # STEP 3: Run featureCounts - Quantification
-# # get gtf
+# # STEP 3: Run featureCounts for Quantification
+# # get the gtf if its not on the local computer
 #wget http://ftp.ensembl.org/pub/release-106/gtf/homo_sapiens/Homo_sapiens.GRCh38.106.gtf.gz
 
-# Specify the log file path and name
 log_file="./log_file.txt"
 
-# Create the log file (if it doesn't exist)
+# or create the log file if it doesn't exist
 touch "$log_file"
 
-# Redirect stdout and stderr to log file
+# Redirect the standard output to the log file
 exec > >(tee -a "$log_file") 2>&1
 
-# capture start time
 start_time=$(date +%s)
 
 
@@ -26,10 +24,8 @@ for file in ../HISAT2/Bam_files/*.bam; do
     
 done
 
-# capture end time
 end_time=$(date +%s)
 
-# calculate time taken
 time_taken=$((end_time - start_time))
 
 echo "featureCounts finished running!"

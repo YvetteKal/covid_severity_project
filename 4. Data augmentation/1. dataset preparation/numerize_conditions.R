@@ -15,7 +15,7 @@ data_sv$severity
 
 
 
-# Write the transformed data to a new csv file
+# Lastly, write the transformed data to a new csv file
 write.csv(data_sv, "myDataset_numerized_severity_lfc_1_DEGs_transposed.csv", row.names=FALSE)
 
 

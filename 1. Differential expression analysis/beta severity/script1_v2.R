@@ -1,19 +1,17 @@
 library(DESeq2)
 library(apeglm)
 
-#load the count matrix
 mydata <- read.csv("data/final_count_matrix_R1_no_geneNames.csv", header = T, row.names = 1)
 head(mydata)
 
-#load the column data
+#experimental design
 colData <- read.csv("data/sample_info_v2.csv", row.names = 1) #here, the rownmes in the file must have the same order than in the count matrix. this is to be verified
 
 #Some analysis for excluding healthy control samples from the SEVERITY analysis 
 #---------------------------------------------------------------------
-# Define the row names you want to exclude from colData and mydata for severity 
 rows_to_exclude_severity <- c("NONCOVID_01_54y_female_NonICU","NONCOVID_02_65y_male_ICU","NONCOVID_03_65y_male_ICU","NONCOVID_04_90y_male_NonICU","NONCOVID_05_83y_female_NonICU","NONCOVID_06_75y_female_ICU","NONCOVID_07_50y_male_ICU","NONCOVID_08_53y_female_ICU","NONCOVID_09_49y_female_NonICU","NONCOVID_10_67y_male_ICU","NONCOVID_11_58y_female_NonICU","NONCOVID_12_82y_male_ICU","NONCOVID_13_65y_male_ICU","NONCOVID_14_75y_female_ICU","NONCOVID_15_83y_unknown_ICU","NONCOVID_16_40y_female_ICU","NONCOVID_17_84y_female_ICU","NONCOVID_18_88y_male_ICU","NONCOVID_19_66y_female_ICU","NONCOVID_20_62y_female_ICU","NONCOVID_21_71y_male_NonICU","NONCOVID_22_63y_male_NonICU","NONCOVID_23_42y_female_NonICU","NONCOVID_24_32y_female_NonICU","NONCOVID_25_62y_male_NonICU","NONCOVID_26_36y_male_ICU")
 
-# Exclude the specified rows from colData and the corresponding columns from mydata
+
 colData <- colData[!(rownames(colData) %in% rows_to_exclude_severity), ]
 mydata <- mydata[, !(colnames(mydata) %in% rows_to_exclude_severity)]
 #--------------------------------------------------------------------
@@ -45,9 +43,7 @@ ddsDE <- DESeq(dds)
 normCounts <- counts(ddsDE, normalized = T)
 write.csv(normCounts, "data/final_count_matrix_R1_severity_normalized.csv")
 
-
-
-#DESeq results
+#results
 res <- results(ddsDE, alpha = 0.01) #alpha is the corrected p-value
 
 #look at the summary of our res or summarise the output of the result file: %up and downs regulations
@@ -70,7 +66,7 @@ res_ordered <- res[order(res$padj), ]
 write.csv(res_ordered, "data/final_count_matrix_R1_severity_normalized_deseq-results-ordered.csv")
 
 
-#look at the conditions: the first one is the first showed
+#look at the conditions: the first one is the first shown
 resultsNames(ddsDE)
 #negative LFC:more expression in second condition and positive: more expression in the first condition
 

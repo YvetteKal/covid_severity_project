@@ -1,37 +1,34 @@
 #!/bin/bash
 
-# set the output directory
+# output directory
 output_dir=./trimming_output
 
-# Specify the log file path and name
+# log file
 log_file="${output_dir}/log_file.txt"
 
-# Create the log file (if it doesn't exist)
 touch "$log_file"
 
-# Redirect stdout and stderr to log file
 exec > >(tee -a "$log_file") 2>&1
 
-# capture start time
 start_time=$(date +%s)
     
 # loop over all paired-end read files in the input directory
 for file in ./raw_read_files/*_1.fastq.gz; do
 
-    # get the basename of the file
+    # get the basename of the current file
     filename=$(basename "${file}" _1.fastq.gz)
 
-    # set the forward and reverse read filenames
+    # forward and reverse read filenames
     forward_reads=./${filename}_1.fastq.gz
     reverse_reads=./${filename}_2.fastq.gz
 
-        # set the output filenames
+        # output filenames
     trimmed_forward=${output_dir}/${filename}_1_trimmed.fastq.gz #Output file that contains surviving pairs from the _1 file
     unpaired_forward=${output_dir}/${filename}_1_unpaired.fastq.gz #Output file that contains surviving orphans from the _1 file
     trimmed_reverse=${output_dir}/${filename}_2_trimmed.fastq.gz #Output file that contains surviving pairs from the _2 file
     unpaired_reverse=${output_dir}/${filename}_2_unpaired.fastq.gz #Output file that contains surviving orphans from the _2 file
 
-        # run Trimmomatic on the file
+        # running Trimmomatic on the files
     java -jar /Users/yvette/Documents/Nairobi/Thesis/softwares/Trimmomatic-0.39/trimmomatic-0.39.jar PE -phred33 \
         "${forward_reads}" "${reverse_reads}" \
         "${trimmed_forward}" "${unpaired_forward}" \
@@ -41,10 +38,8 @@ for file in ./raw_read_files/*_1.fastq.gz; do
 
 done
 
-# capture end time
 end_time=$(date +%s)
 
-# calculate time taken
 time_taken=$((end_time - start_time))
 
 echo "Trimmomatic finished running!!"
@@ -53,15 +48,7 @@ echo "Time taken: ${time_taken} seconds."
 
 #PS: the code I ran if trimming failed for some files
 
-# #!/bin/bash
-
-# # set the output directory
-# output_dir=./trimming_output
-
-# # capture start time
-# start_time=$(date +%s)
-
-
+#only modify this here
 # # loop over all paired-end read files in the input directory
 # for file in ./raw_read_files/*_1.fastq.gz; do
 
@@ -97,14 +84,5 @@ echo "Time taken: ${time_taken} seconds."
 
 # done
 
-# # capture end time
-# end_time=$(date +%s)
-
-# # calculate time taken
-# time_taken=$((end_time - start_time))
-
-# # print time taken
-# echo "Trimmomatic finished running!"
-# echo "Time taken: ${time_taken} seconds."
 
 

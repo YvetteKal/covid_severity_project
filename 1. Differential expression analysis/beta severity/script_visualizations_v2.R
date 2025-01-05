@@ -81,12 +81,10 @@ signi <- subset(deseqRes_, padj <= 0.01 & abs(log2FoldChange) >= 1)
 # Sort the 'signi' subset based on the absolute value of log2foldchange
 signi <- signi[order(abs(signi$log2FoldChange), decreasing = TRUE),]
 
-# Select the top 10 most differentially expressed genes
+# top 10 DEGs
 top_10_de_genes <- head(signi, 10)
 
-# Extract the rownames from the 'top_10_de_genes' and merge with 'normCounts_'
-#rownames_top_10 <- rownames(top_10_de_genes)
-#sigCounts <- normCounts_[rownames_top_10, ]
+
 write.csv(top_10_de_genes, "data/top_10_de_genes_severity_deseq-results.csv")
 
 
@@ -103,11 +101,9 @@ row.names(sigCounts) <- allsig$Row.names
 annotation_matrix <- data.frame(severity = sample_conditions$severity)
 
 # Assuming 'sample_conditions' is a data frame containing condition information for each sample
-# Here, we are assuming 'sample_conditions$severity' is a vector representing the condition/severity for each sample.
-# If it's not, replace it with the appropriate column or vector from the 'sample_conditions' data frame.
+
 heatmap_object <-pheatmap(log2(sigCounts + 1), scale = 'row', show_rownames = T, show_colnames = F, annotation = dplyr::select(sample_conditions, severity), border_color = "black")
 
 
-# Save the heatmap as an image
 ggsave("data/partial_heatmap_severity.png", plot = heatmap_object)
 

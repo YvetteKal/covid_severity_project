@@ -1,15 +1,11 @@
 #!/bin/bash
 
-# Specify the log file path and name
 log_file="./log_file.txt"
 
-# Create the log file (if it doesn't exist)
 touch "$log_file"
 
-# Redirect stdout and stderr to log file
 exec > >(tee -a "$log_file") 2>&1
 
-# capture start time
 start_time=$(date +%s)
 
 for file in ../trimming_output/*_1_trimmed.fastq.gz; do
@@ -22,31 +18,16 @@ for file in ../trimming_output/*_1_trimmed.fastq.gz; do
     samtools sort -o /Volumes/Transcend/yvette/downloaded/201-250/my\ Project/HISAT2/Bam_files/"$sample"_trimmed.bam
 done
 
-# capture end time
 end_time=$(date +%s)
 
-# calculate time taken
+# calculate AND print time taken
 time_taken=$((end_time - start_time))
 
-# print time taken
 echo "HISAT2 finished running!"
 echo "Time taken: ${time_taken} seconds."
 
 #PS: in the case some processes failed 
-# #!/bin/bash
-
-# # Specify the log file path and name
-# log_file="./log_file.txt"
-
-# # Create the log file (if it doesn't exist)
-# touch "$log_file"
-
-# # Redirect stdout and stderr to log file
-# exec > >(tee -a "$log_file") 2>&1
-
-# # capture start time
-# start_time=$(date +%s)
-
+#replaced this code block only
 # for file in ../trimming_output/*_1_trimmed.fastq.gz; do
 #     # Get the file name without the "_1_trimmed.fastq.gz" suffix
 #     sample=$(basename "$file" _1_trimmed.fastq.gz)
@@ -65,15 +46,7 @@ echo "Time taken: ${time_taken} seconds."
 #     samtools sort -o ./Bam_files/"$sample"_trimmed.bam
 # done
 
-# # capture end time
-# end_time=$(date +%s)
 
-# # calculate time taken
-# time_taken=$((end_time - start_time))
-
-# # print time taken
-# echo "HISAT2 finished running!"
-# echo "Time taken: ${time_taken} seconds."
 
 #others
 
