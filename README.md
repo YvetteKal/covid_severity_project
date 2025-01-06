@@ -183,7 +183,7 @@ The data and models for this project are available on request due to Github size
 
 ## Dependencies
 
-- Python (=3.9)
+- Python (=3.10)
 - FastQC
 - MultiQC
 - Trimmomatic
